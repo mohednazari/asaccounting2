@@ -18,11 +18,11 @@ export default function Page() {
                 <Welcome />
                 <TaxBusiness />
                 <About />
-                <About2 />
-                <CaseStudy />
-                <Pricing />
                 <Testimonial />
-                <Blog />
+                <About2 />
+                <Pricing />
+                {/* <Blog /> */}
+                <CaseStudy />
                 <Subscribe />
             </Layout>
         </>
