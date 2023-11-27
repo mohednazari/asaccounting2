@@ -23,9 +23,10 @@ export default function TaxBusiness() {
                                 <div className="business-icon">
                                     <img src="/assets/img/icons/tax-business1.png" alt="" />
                                 </div>
-                                <h3>IRS Tax Problems</h3>
-                                <p>Making a mistake on your return can be costly. From missed deductions, or worse, the dreaded
-                                    IRS audit.
+                                <h3>Personal Tax</h3>
+                                <p>Navigate the complexities of personal tax with ease.
+                                    Our dedicated team ensures you benefit from every deduction and credit available to you,
+                                    optimizing your tax position and guiding you through the ever-changing tax landscape.
                                 </p>
                                 <Link href="#" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
                             </div>
@@ -35,10 +36,8 @@ export default function TaxBusiness() {
                                 <div className="business-icon">
                                     <img src="/assets/img/icons/tax-business2.png" alt="" />
                                 </div>
-                                <h3>Tax Preparation and Planning</h3>
-                                <p>Getting the most our of your income and finances is what sets us apart. Whether you need tax
-                                    preparation
-                                    services.</p>
+                                <h3>Corporation Tax</h3>
+                                <p>Minimize your corporate tax liabilities with strategic planning and compliance. Our experts stay abreast of the latest regulations to provide proactive solutions that align with your company's goals.</p>
                                 <Link href="#" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
                             </div>
                         </div>
@@ -47,10 +46,8 @@ export default function TaxBusiness() {
                                 <div className="business-icon">
                                     <img src="/assets/img/icons/tax-business3.png" alt="" />
                                 </div>
-                                <h3>Payroll Services</h3>
-                                <p>Managing payroll may not seem like a critical task untill something goes wrong. We have
-                                    experts and
-                                    technology to help you.</p>
+                                <h3>Financial Accounting</h3>
+                                <p>Experience clarity and precision in your financial reporting. Our financial accounting services provide accurate insights into your financial health, enabling informed decision-making for your dental practice.</p>
                                 <Link href="#" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
                             </div>
                         </div>
@@ -59,10 +56,28 @@ export default function TaxBusiness() {
                                 <div className="business-icon">
                                     <img src="/assets/img/icons/tax-business4.png" alt="" />
                                 </div>
-                                <h3>Bookkeeping and Virtual CFO</h3>
-                                <p>We know that competent, consistent bookkeeping is the key to a business success. Sucess
-                                    starts when you
-                                    take charge of books.</p>
+                                <h3>Management Accounting</h3>
+                                <p>Empower your dental practice with detailed management reports and performance analysis. We help you understand the story behind the numbers, facilitating effective management and operational efficiency.</p>
+                                <Link href="#" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
+                            </div>
+                        </div>
+                        <div className="col-md-6" data-aos="fade-up" data-aos-duration={1200}>
+                            <div className="single-business trans-1">
+                                <div className="business-icon">
+                                    <img src="/assets/img/icons/tax-business4.png" alt="" />
+                                </div>
+                                <h3>Payroll</h3>
+                                <p>Simplify your payroll process with our comprehensive payroll services. From processing payments to filing year-end reports, we ensure your staff are paid correctly and on time, every time.</p>
+                                <Link href="#" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
+                            </div>
+                        </div>
+                        <div className="col-md-6" data-aos="fade-up" data-aos-duration={1200}>
+                            <div className="single-business trans-1">
+                                <div className="business-icon">
+                                    <img src="/assets/img/icons/tax-business4.png" alt="" />
+                                </div>
+                                <h3>Mortgages and Loans</h3>
+                                <p>Secure the best possible terms for your mortgages and loans with our expert advisory. We navigate the financing landscape to find solutions that support the growth and stability of your dental practice.</p>
                                 <Link href="#" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
                             </div>
                         </div>
