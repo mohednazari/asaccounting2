@@ -12,11 +12,8 @@ export default function Welcome() {
                             <div className="title title2 ">
                                 <small data-aos="fade-right" data-aos-duration={600} className="heading-top2"><img src="/assets/img/icons/money.png" alt="" />Award-Winnng Tax Consultant
                                     in Texas</small>
-                                <h1 data-aos="fade-right" data-aos-duration={800}>We help you avoid tax blunders.</h1>
-                                <p data-aos="fade-right" data-aos-duration={1000}>Making a mistake on your return can be costly.
-                                    From missed
-                                    deductions, or worse, the dreaded IRS
-                                    audit.</p>
+                                <h1 data-aos="fade-right" data-aos-duration={800}>Expert Accounting Solutions for Dental Practices</h1>
+                                <p data-aos="fade-right" data-aos-duration={1000}>Tailored Financial Services to Grow Your Dental Business</p>
                                 <div className="space30" />
                                 <div className="btn-group" data-aos="fade-right" data-aos-duration={1200}>
                                     <Link className="theme-btn-2" href="#">Get An Estimated Quote <span><i className="fa-solid fa-arrow-right" /></span></Link>
