@@ -20,8 +20,8 @@ export default function Welcome() {
                                     <Link href="/tel:7363534" className="theme-btn-15">
                                         <span className="btn-icon"><img src="/assets/img/icons/phone-icon-4.svg" alt="" /></span>
                                         <span className="btn-content">
-                                            <span className="btn-title">Hotline 24/7</span>
-                                            <span className="btn-text">+49 30 9233255</span>
+                                            <span className="btn-title">Speak to Our Advisors</span>
+                                            <span className="btn-text">02080 900 372</span>
                                         </span>
                                     </Link>
                                 </div>

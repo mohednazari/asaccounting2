@@ -45,34 +45,22 @@ export default function LogoSlider2() {
         <>
             <Swiper {...swiperOptions} className="logos logos2 owl-carousel">
                 <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/logo21.png" alt="" />
+                    <img src="/assets/img/logo/186dental.png" alt="" />
                 </SwiperSlide>
                 <SwiperSlide className="single-logo">
                     <img src="/assets/img/logo/logo22.png" alt="" />
                 </SwiperSlide>
                 <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/logo23.png" alt="" />
+                    <img src="/assets/img/logo/brightsmile.png" alt="" />
                 </SwiperSlide>
                 <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/logo24.png" alt="" />
+                    <img src="/assets/img/logo/confidentsmile.png" alt="" />
                 </SwiperSlide>
                 <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/logo25.png" alt="" />
+                    <img src="/assets/img/logo/itvault.png" alt="" />
                 </SwiperSlide>
                 <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/logo21.png" alt="" />
-                </SwiperSlide>
-                <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/logo22.png" alt="" />
-                </SwiperSlide>
-                <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/logo23.png" alt="" />
-                </SwiperSlide>
-                <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/logo24.png" alt="" />
-                </SwiperSlide>
-                <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/logo25.png" alt="" />
+                    <img src="/assets/img/logo/monalisa.png" alt="" />
                 </SwiperSlide>
             </Swiper>
         </>

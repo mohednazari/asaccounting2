@@ -20,7 +20,7 @@ export default function Welcome() {
                                 </div>
                                 <div className="space80" />
                                 <div className="logo-area2" data-aos="fade-right" data-aos-duration={1400}>
-                                    <p>Trusted by more than 400+ companies worldwide</p>
+                                    <p>Trusted by more than 300+ companies in the UK</p>
                                     <LogoSlider2 />
                                 </div>
                             </div>
