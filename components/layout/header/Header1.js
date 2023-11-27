@@ -11,7 +11,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu }) {
                             <div className="header-elements">
                                 <div className="header_menu_area">
                                     <div className="logo">
-                                        <Link href="/"><img src="/assets/img/logo/logo.svg" alt="" /></Link>
+                                        <Link href="/"><img src="/assets/img/logo/logo.png" alt="" /></Link>
                                     </div>
                                     <div className="main-menu">
                                         <div className="menu-wrap">
@@ -25,8 +25,8 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu }) {
                                             <i className="fa-light fa-phone" />
                                         </div>
                                         <div className="quick_contact_content">
-                                            <small>Hotline 24/7</small>
-                                            <Link href="/tel:+49 30 923325544">+49 30 923325544</Link>
+                                            <small>Speak to Our Advisors</small>
+                                            <Link href="/tel:02080 900 372">02080 900 372</Link>
                                         </div>
                                     </div>
                                 </div>
