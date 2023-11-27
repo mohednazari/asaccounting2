@@ -9,18 +9,15 @@ export default function Logo() {
                     <div className="row">
                         <div className="col-md-8 m-auto">
                             <div className="heading4 text-center" data-aos="fade-up" data-aos-duration={900}>
-                                <h4>Our Trusted Partners</h4>
+                                <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center'}}>
+                                    <h4>Our Trusted Partners</h4>
+                                    <LogoSlider1 />
+                                </div>
                             </div>
-                        </div>
-                    </div>
-                    <div className="row">
-                        <div className="col-12">
-                            <LogoSlider1 />
                         </div>
                     </div>
                 </div>
             </div>
-
         </>
     )
 }
