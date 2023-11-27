@@ -2550,25 +2550,25 @@ img {
 }
 @media (min-width: 992px) {
   .header-2 .main-menu ul li {
-    color: #1456DA;
+    color: #2E3E90;
   }
   .header-2 .main-menu ul li a:hover {
-    color: #1456DA;
+    color: #2E3E90;
   }
   .header-2 li.dropdown-parrent:hover > a {
-    color: #1456DA;
+    color: #2E3E90;
   }
   .header-2 li.dropdown-parrent ul.theme-dropdown li a:after {
-    background: #1456DA;
+    background: #2E3E90;
   }
   .header-2 .quick_contact .quick_contact_icon i {
-    color: #1456DA;
+    color: #2E3E90;
   }
   .header-2 .quick_contact:hover .quick_contact_icon {
-    border-color: #1456DA;
+    border-color: #2E3E90;
   }
   .header-2 .quick_contact_content h5:hover, .header-2 .quick_contact_content a:hover {
-    color: #1456DA;
+    color: #2E3E90;
   }
 }
 @media (min-width: 992px) {
@@ -4378,7 +4378,7 @@ button.search-icon {
 }
 
 .theme-btn-2 {
-  background: #243D31;
+  background: #2E3E90;
   border-radius: 8px;
   font-weight: 700;
   font-size: 16px;
@@ -4409,7 +4409,7 @@ button.search-icon {
 }
 .theme-btn-2:hover {
   color: #ffffff;
-  background: #27AE60;
+  background: #337CCF;
   transition: all 0.3s;
   transform: translateY(-3px);
 }
