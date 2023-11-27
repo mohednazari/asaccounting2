@@ -10,6 +10,7 @@ export default function Footer1() {
                                 <Link href="/"><img src="assets/img/logo/logo.png" alt="" style={{width: "50px", height: "auto"}} /></Link>
                                 <div className="space20" />
                                 <p>Your Trusted Partner in Dental Practice Financial Management — Advancing Together Towards Greater Success and Sustainability.</p>
+                                <Link href="/"><img src="assets/img/logo/acca.png" alt="" style={{width: "50px", height: "auto"}} /></Link>
                             </div>
                         </div>
                         <div className="col-lg col-md-6">
@@ -19,8 +20,24 @@ export default function Footer1() {
                                     <ul>
                                         <li><Link href="#">About us</Link></li>
                                         <li><Link href="#">Privacy Policy</Link></li>
-                                        <li><Link href="#">User Terms</Link></li>
+                                        <li><Link href="#">Terms & Conditions</Link></li>
                                         <li><Link href="#">Help Centre</Link></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg col-md-6">
+                            <div className="single-footer">
+                                <h3>Our Services</h3>
+                                <div className="footer-menu">
+                                    <ul>
+                                        <li><Link href="#">Personal Tax</Link></li>
+                                        <li><Link href="#">Corporation Tax</Link></li>
+                                        <li><Link href="#">Financial Accounting</Link></li>
+                                        <li><Link href="#">Management Accounting</Link></li>
+                                        <li><Link href="#">Payroll</Link></li>
+                                        <li><Link href="#">Mortgages and Loans</Link></li>
+
                                     </ul>
                                 </div>
                             </div>
