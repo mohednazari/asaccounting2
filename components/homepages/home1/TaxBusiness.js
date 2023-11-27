@@ -34,7 +34,7 @@ export default function TaxBusiness() {
                                     <img src="/assets/img/icons/tax-business2.png" alt="" />
                                 </div>
                                     <h3>Corporation Tax</h3>
-                                    <p>Effectively minimize your corporate tax liabilities with our strategic planning and rigorous compliance. Our experts are continually updated on the latest regulations to provide proactive, goal-aligned solutions for your company's financial success.</p>
+                                    <p>Effectively minimize your corporate tax liabilities with our strategic planning and rigorous compliance. Our experts are continually updated on the latest regulations to provide solutions for your company's financial success.</p>
                                 <Link href="#" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
                             </div>
                         </div>
