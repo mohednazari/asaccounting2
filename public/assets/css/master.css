@@ -3332,7 +3332,7 @@ a.footer-logo {
   font-size: 16px;
   line-height: 16px;
   color: #161540;
-  display: block;
+  /* display: block; */
   margin-bottom: 10px;
 }
 .single-contact:last-child {
@@ -3432,7 +3432,7 @@ a.footer-logo {
 }
 
 .footer-2 .contact-icon {
-  background: #D3DBD8;
+  background: #1456DA;
 }
 .footer-2 .single-footer h3 {
   font-weight: 500;
@@ -3450,7 +3450,7 @@ a.footer-logo {
   transition: all 0.3s;
 }
 .footer-2 .footer-menu ul li a:hover {
-  color: #FDC24C;
+  color: #2E3E90;
   padding-left: 3px;
   transition: all 0.3s;
 }
@@ -6036,7 +6036,7 @@ img.shape-right-bottom {
   color: #09120E;
 }
 .pricing2 a.price-btn {
-  background: #243D31;
+  background: #2E3E90;
   box-shadow: 0 4px 25px rgba(36, 61, 49, 0.15);
   transition: all 0.3s;
 }
@@ -8980,11 +8980,11 @@ a.up-arrow img {
   height: 20px;
 }
 a.up-arrow.up-2 {
-  border-color: #243D31;
-  color: #243D31;
+  border-color: #2E3E90;
+  color: #2E3E90;
 }
 a.up-arrow.up-2:hover {
-  background: #243D31;
+  background: #2E3E90;
   border-color: #ffffff;
   color: #ffffff;
 }
@@ -8993,16 +8993,16 @@ a.up-arrow.up-3 {
   color: #192533;
 }
 a.up-arrow.up-3:hover {
-  background: #192533;
+  background: #2E3E90;
   border-color: #ffffff;
   color: #ffffff;
 }
 a.up-arrow.up-4 {
-  border-color: #7977C6;
+  border-color: #2E3E90;
   color: #7977C6;
 }
 a.up-arrow.up-4:hover {
-  background: #7977C6;
+  background: #2E3E90;
   border-color: #ffffff;
   color: #ffffff;
 }

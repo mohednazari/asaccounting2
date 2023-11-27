@@ -9,7 +9,7 @@ export default function TaxBusiness() {
                     <div className="row">
                         <div className="col-md-4 m-auto">
                             <div className="heading2 white-heading text-center">
-                                <small data-aos="fade-up" data-aos-duration={600} className="heading-top">🤝 Growing Your Business with Trusted Financial Insights.</small>
+                                <small data-aos="fade-up" data-aos-duration={600} className="heading-top">Comprehensive Accounting Solutions 📊</small>
                                 <h2 data-aos="fade-up" data-aos-duration={800}><span className="heilight-left">Our</span>Services</h2>
                             </div>
                         </div>

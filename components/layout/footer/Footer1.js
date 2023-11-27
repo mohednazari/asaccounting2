@@ -2,29 +2,14 @@ import Link from "next/link"
 export default function Footer1() {
     return (
         <>
-            <footer className="footer-area padding-top footer-2 bg9">
+            <footer className="footer-area padding-top footer-2">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-4 col-md-6">
                             <div className="single-footer mr50">
-                                <Link href="/" className="footer-logo"> <img src="/assets/img/logo/site-logo-3.svg" alt="" /></Link>
+                                <Link href="/"><img src="assets/img/logo/logo.png" alt="" style={{width: "50px", height: "auto"}} /></Link>
                                 <div className="space20" />
-                                <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia
-                                    consequat duis
-                                    enim velit mollit.</p>
-                            </div>
-                        </div>
-                        <div className="col-lg col-md-6">
-                            <div className="single-footer">
-                                <h3>Learn</h3>
-                                <div className="footer-menu">
-                                    <ul>
-                                        <li><Link href="#">Product</Link></li>
-                                        <li><Link href="#">Pricing</Link></li>
-                                        <li><Link href="#">Schedule a demo</Link></li>
-                                        <li><Link href="#">Our Blog</Link></li>
-                                    </ul>
-                                </div>
+                                <p>Your Trusted Partner in Dental Practice Financial Management — Advancing Together Towards Greater Success and Sustainability.</p>
                             </div>
                         </div>
                         <div className="col-lg col-md-6">
@@ -48,8 +33,7 @@ export default function Footer1() {
                                         <div className="contact-icon">
                                             <img src="/assets/img/icons/contact-phone2.svg" alt="" />
                                         </div>
-                                        <Link href="#">USA: +91 02 2585 0556</Link>
-                                        <Link href="#">UK: +61 02 2585 0556</Link>
+                                        <Link href="#">02080 900 372</Link>
                                     </div>
                                 </div>
                                 <div className="footer-contact">
@@ -57,8 +41,16 @@ export default function Footer1() {
                                         <div className="contact-icon">
                                             <img src="/assets/img/icons/contact-email2.svg" alt="" />
                                         </div>
-                                        <Link href="#">Contacthelp@Demoui.co</Link>
-                                        <Link href="#">Info@consultia.co</Link>
+                                        <Link href="#">admin@sadentalaccountants.com</Link>
+                                    </div>
+                                </div>
+                                <div className="footer-contact">
+                                    <div className="single-contact">
+                                        <div className="contact-icon">
+                                            <img src="/assets/img/icons/contact-3.svg" alt="" />
+                                        </div>
+                                        <Link href="#">246, Woodhouse Road, North
+                                        Finchley, London, N12 0RU</Link>
                                     </div>
                                 </div>
                             </div>
@@ -66,7 +58,7 @@ export default function Footer1() {
                     </div>
                     <div className="row align-items-center copyright2">
                         <div className="col-lg-6">
-                            <p>© 2023 Consultia by fleexstudio. All Rights Reserved.</p>
+                            <p>© 2023 ASAccounting | Design by AtlasVision. All Rights Reserved.</p>
                         </div>
                         <div className="col-lg-6 text-right">
                             <div className="social social2">
