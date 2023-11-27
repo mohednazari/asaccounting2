@@ -68,49 +68,24 @@ const TestimonialThumbSlider1 = () => {
                     ref={(slider) => setSlider1(slider)}
                     className="slider-testimonial">
                     <div className="single-testimonial">
-                        <h5>“If your appetite is whetted, check out which tour might take your fancy, fill out
-                            the contact form
-                            or send an email so we can make an appointment. Tours are privately organised and
-                            tailor-made to suit
-                            most tastes.”</h5>
+                        <h5>“The financial guidance from ASAccounting has been a game-changer for our dental practice. Their tax strategies significantly reduced our liabilities and improved our bottom line.”</h5>
                         <div className="author">
-                            <Link href="#">Leslie Alexander</Link>
-                            <p>CEO, Business Administ</p>
+                            <Link href="#">Dr. Emily Nguyen</Link>
+                            <p>DDS, BrightSmile Clinics</p>
                         </div>
                     </div>
                     <div className="single-testimonial">
-                        <h5>“The graphic and typographic operators know this well, in reality all the professions dealing with the universe of communication have a stable relationship with these words, but what is it? Lorem ipsum is a dummy text without any sense. ”</h5>
+                        <h5>“Working with ASAccounting, we've not only saved on taxes but also streamlined our accounting processes. Their team understands the dental business inside out.”</h5>
                         <div className="author">
-                            <Link href="#">Leslie Alexander</Link>
-                            <p>CEO, Business Administ</p>
+                            <Link href="#">Dr. Jordan Clark</Link>
+                            <p>DMD, Clark Dental Group</p>
                         </div>
                     </div>
                     <div className="single-testimonial">
-                        <h5>“Lorem ipsum contains the typefaces more in use, an aspect that allows you to have an overview of the rendering of the text in terms of font choice and font size . ”</h5>
+                        <h5>“ASAccounting provided us with comprehensive financial services that have been crucial in our practice's growth. Their attention to detail and industry knowledge is unmatched.”</h5>
                         <div className="author">
-                            <Link href="#">Leslie Alexander</Link>
-                            <p>CEO, Business Administ</p>
-                        </div>
-                    </div>
-                    <div className="single-testimonial">
-                        <h5>“When referring to Lorem ipsum, different expressions are used, namely fill text , fictitious text , blind text or placeholder text : in short, its meaning can also be zero”</h5>
-                        <div className="author">
-                            <Link href="#">Leslie Alexander</Link>
-                            <p>CEO, Business Administ</p>
-                        </div>
-                    </div>
-                    <div className="single-testimonial">
-                        <h5>“Filling text generation tool, in addition to customizing the text with HTML elements, you have the possibility to create a new one starting directly from your text! ”</h5>
-                        <div className="author">
-                            <Link href="#">Leslie Alexander</Link>
-                            <p>CEO, Business Administ</p>
-                        </div>
-                    </div>
-                    <div className="single-testimonial">
-                        <h5>“The Lorem ipum filling text is used by graphic designers, programmers and printers with the aim of occupying the spaces of a website, an advertising product or an editorial production whose final text is not yet ready. ”</h5>
-                        <div className="author">
-                            <Link href="#">Leslie Alexander</Link>
-                            <p>CEO, Business Administ</p>
+                            <Link href="#">Dr. Sophia Martin</Link>
+                            <p>Orthodontist, Martin Orthodontics</p>
                         </div>
                     </div>
                 </Slider>
