@@ -25,19 +25,11 @@ export default function About() {
                             <div className="heading2 no-margin-heading ml50">
                                 <small data-aos="fade-left" data-aos-duration={600} className="heading-top"><img src="/assets/img/icons/hands.svg" alt="" />We Are Here For Your Tax
                                     Relief.</small>
-                                <h2 data-aos="fade-left" data-aos-duration={800}>We Handle The Most Tedious Bookkeeping Tasks of
-                                    Your
-                                    Business Operations.</h2>
-                                <p data-aos="fade-left" data-aos-duration={1000}>Experienced, knowledgeable professionals in
-                                    Property Tax
-                                    Consulting. Our team of Property Tax
-                                    Consultants is committed to saving you money by obtaining the lowest possible assessed value
-                                    for your
-                                    commercial or residential properties.
-                                </p>
-                                <p data-aos="fade-left" data-aos-duration={1000}> At Resolute we are experienced, knowledgeable
+                                <h2 data-aos="fade-left" data-aos-duration={800}>Excellence in Accounting for Dental Professionals</h2>
+                                <p data-aos="fade-left" data-aos-duration={1000}>At ASAccounting, we are more than just accountants; we are the guardians of your financial well-being. Our firm is built on the cornerstone of trust and specialized knowledge in the dental sector. We pride ourselves on providing comprehensive accounting services tailored to the unique financial needs of dental professionals. Through meticulous financial management and strategic foresight, we empower your practice to flourish while you focus on providing exceptional dental care. Our dedicated team is committed to your success, ensuring each financial decision aligns with your practice's vision and goals.</p>
+                                <p data-aos="fade-left" data-aos-duration={1000}>At Resolute we are experienced, knowledgeable
                                     professionals who always stay well-informed on the
-                                    latest Tax Code changes in order to maintain our superior customer service.</p>
+                                    latest Tax Code changes in order to maintain our superior customer service.Learn more about our story, our values, and the people who make [Firm Name] the preferred financial ally for dental practitioners.</p>
                                 <div className="space50" />
                                 <div className="button-group" data-aos="fade-left" data-aos-duration={1200}>
                                     <Link className="theme-btn-2" href="#">More About Us <span><i className="fa-solid fa-arrow-right" /></span></Link>
