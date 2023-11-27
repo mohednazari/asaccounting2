@@ -48,9 +48,6 @@ export default function LogoSlider2() {
                     <img src="/assets/img/logo/186dental.png" alt="" />
                 </SwiperSlide>
                 <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/logo22.png" alt="" />
-                </SwiperSlide>
-                <SwiperSlide className="single-logo">
                     <img src="/assets/img/logo/brightsmile.png" alt="" />
                 </SwiperSlide>
                 <SwiperSlide className="single-logo">
