@@ -4,7 +4,7 @@ import Link from "next/link"
 export default function Welcome() {
     return (
         <>
-            <div className="welcome-4 bg-13 position-relative pt-90" id="home">
+            <div className="welcome-4 bg-5 position-relative pt-90" id="home">
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-6">

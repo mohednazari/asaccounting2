@@ -2550,25 +2550,25 @@ img {
 }
 @media (min-width: 992px) {
   .header-2 .main-menu ul li {
-    color: #FDC24C;
+    color: #1456DA;
   }
   .header-2 .main-menu ul li a:hover {
-    color: #FDC24C;
+    color: #1456DA;
   }
   .header-2 li.dropdown-parrent:hover > a {
-    color: #FDC24C;
+    color: #1456DA;
   }
   .header-2 li.dropdown-parrent ul.theme-dropdown li a:after {
-    background: #FDC24C;
+    background: #1456DA;
   }
   .header-2 .quick_contact .quick_contact_icon i {
-    color: #243D31;
+    color: #1456DA;
   }
   .header-2 .quick_contact:hover .quick_contact_icon {
-    border-color: #243D31;
+    border-color: #1456DA;
   }
   .header-2 .quick_contact_content h5:hover, .header-2 .quick_contact_content a:hover {
-    color: #243D31;
+    color: #1456DA;
   }
 }
 @media (min-width: 992px) {
