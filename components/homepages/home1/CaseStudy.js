@@ -108,11 +108,6 @@ export default function CaseStudy() {
                                         <p>Strategic financial oversight for dental corporations. We deliver high-level financial insights and services that drive growth, optimize operations, and enhance corporate financial performance.</p>
                                         {/* <Link href="#" className="theme-btn-7">Check out Check Study <span><i className="fa-solid fa-arrow-right" /></span></Link> */}
                                     </div>
-                                    <div className="case-study-content">
-                                        <h4>Vocational Trainees (VT's)</h4>
-                                        <p>Tailored financial guidance for dental vocational trainees. Starting your dental career on solid ground with expert advice on tax, student loan management, and financial planning.</p>
-                                        {/* <Link href="#" className="theme-btn-7">Check out Check Study <span><i className="fa-solid fa-arrow-right" /></span></Link> */}
-                                    </div>
                                 </SwiperSlide>
                                 <SwiperSlide className="single-case-study">
                                     <div className="case-study-img">
