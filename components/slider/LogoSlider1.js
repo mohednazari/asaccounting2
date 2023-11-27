@@ -50,6 +50,24 @@ export default function LogoSlider1() {
                 <SwiperSlide className="single-logo">
                     <img src="/assets/img/logo/snatchdigital.png" alt="" />
                 </SwiperSlide>
+                <SwiperSlide className="single-logo">
+                    <img src="/assets/img/logo/fta.jpg" alt="" />
+                </SwiperSlide>
+                <SwiperSlide className="single-logo">
+                    <img src="/assets/img/logo/snatchdigital.png" alt="" />
+                </SwiperSlide>
+                <SwiperSlide className="single-logo">
+                    <img src="/assets/img/logo/fta.jpg" alt="" />
+                </SwiperSlide>
+                <SwiperSlide className="single-logo">
+                    <img src="/assets/img/logo/snatchdigital.png" alt="" />
+                </SwiperSlide>
+                <SwiperSlide className="single-logo">
+                    <img src="/assets/img/logo/fta.jpg" alt="" />
+                </SwiperSlide>
+                <SwiperSlide className="single-logo">
+                    <img src="/assets/img/logo/snatchdigital.png" alt="" />
+                </SwiperSlide>
             </Swiper>
         </>
     )
