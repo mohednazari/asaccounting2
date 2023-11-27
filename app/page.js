@@ -20,9 +20,9 @@ export default function Page() {
                 <About />
                 <Testimonial />
                 <About2 />
+                <CaseStudy />
                 <Pricing />
                 {/* <Blog /> */}
-                <CaseStudy />
                 <Subscribe />
             </Layout>
         </>
