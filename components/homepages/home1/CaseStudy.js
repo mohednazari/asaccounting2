@@ -74,9 +74,9 @@ export default function CaseStudy() {
                                         <img src="/assets/img/case-study/casestudy1.jpg" alt="" />
                                     </div>
                                     <div className="case-study-content">
-                                        <h4>Operational Excellence</h4>
-                                        <p>Making a mistake on your return can be costly. From missed deductions.</p>
-                                        <Link href="#" className="theme-btn-7">Check out Check Study <span><i className="fa-solid fa-arrow-right" /></span></Link>
+                                        <h4>Dental Practices</h4>
+                                        <p>Specialized accounting support to help dental practices flourish with robust financial health. We navigate the complexities of the dental industry to streamline your financial operations, from daily bookkeeping to strategic planning.</p>
+                                        {/* <Link href="#" className="theme-btn-7">Check out Check Study <span><i className="fa-solid fa-arrow-right" /></span></Link> */}
                                     </div>
                                 </SwiperSlide>
                                 <SwiperSlide className="single-case-study">
@@ -84,9 +84,9 @@ export default function CaseStudy() {
                                         <img src="/assets/img/case-study/casestudy2.jpg" alt="" />
                                     </div>
                                     <div className="case-study-content">
-                                        <h4>Analytics Consulting</h4>
-                                        <p>Making a mistake on your return can be costly. From missed deductions.</p>
-                                        <Link href="#" className="theme-btn-7">Check out Check Study <span><i className="fa-solid fa-arrow-right" /></span></Link>
+                                        <h4>Dental Principals</h4>
+                                        <p>Empowering dental principals with personalized financial advice and services. Our expertise aligns with your leadership role, ensuring the profitability and sustainability of your business.</p>
+                                        {/* <Link href="#" className="theme-btn-7">Check out Check Study <span><i className="fa-solid fa-arrow-right" /></span></Link> */}
                                     </div>
                                 </SwiperSlide>
                                 <SwiperSlide className="single-case-study">
@@ -94,19 +94,34 @@ export default function CaseStudy() {
                                         <img src="/assets/img/case-study/casestudy3.jpg" alt="" />
                                     </div>
                                     <div className="case-study-content">
-                                        <h4>Analytics Strategy</h4>
-                                        <p>Making a mistake on your return can be costly. From missed deductions.</p>
-                                        <Link href="#" className="theme-btn-7">Check out Check Study <span><i className="fa-solid fa-arrow-right" /></span></Link>
+                                        <h4>Dental Associates</h4>
+                                        <p>Comprehensive financial management solutions for dental associates. From tax efficiency to investment advice, we provide the tools you need to succeed in your dental career.</p>
+                                        {/* <Link href="#" className="theme-btn-7">Check out Check Study <span><i className="fa-solid fa-arrow-right" /></span></Link> */}
                                     </div>
                                 </SwiperSlide>
                                 <SwiperSlide className="single-case-study">
                                     <div className="case-study-img">
-                                        <img src="/assets/img/case-study/casestudy3.jpg" alt="" />
+                                        <img src="/assets/img/case-study/casestudy4.png" alt="" />
                                     </div>
                                     <div className="case-study-content">
-                                        <h4>Analytics Strategy</h4>
-                                        <p>Making a mistake on your return can be costly. From missed deductions.</p>
-                                        <Link href="#" className="theme-btn-7">Check out Check Study <span><i className="fa-solid fa-arrow-right" /></span></Link>
+                                        <h4>Dental Corporates</h4>
+                                        <p>Strategic financial oversight for dental corporations. We deliver high-level financial insights and services that drive growth, optimize operations, and enhance corporate financial performance.</p>
+                                        {/* <Link href="#" className="theme-btn-7">Check out Check Study <span><i className="fa-solid fa-arrow-right" /></span></Link> */}
+                                    </div>
+                                    <div className="case-study-content">
+                                        <h4>Vocational Trainees (VT's)</h4>
+                                        <p>Tailored financial guidance for dental vocational trainees. Starting your dental career on solid ground with expert advice on tax, student loan management, and financial planning.</p>
+                                        {/* <Link href="#" className="theme-btn-7">Check out Check Study <span><i className="fa-solid fa-arrow-right" /></span></Link> */}
+                                    </div>
+                                </SwiperSlide>
+                                <SwiperSlide className="single-case-study">
+                                    <div className="case-study-img">
+                                        <img src="/assets/img/case-study/casestudy5.jpg" alt="" />
+                                    </div>
+                                    <div className="case-study-content">
+                                        <h4>Vocational Trainees (VT's)</h4>
+                                        <p>Tailored financial guidance for dental vocational trainees. Starting your dental career on solid ground with expert advice on tax, student loan management, and financial planning.</p>
+                                        {/* <Link href="#" className="theme-btn-7">Check out Check Study <span><i className="fa-solid fa-arrow-right" /></span></Link> */}
                                     </div>
                                 </SwiperSlide>
                             </Swiper>
