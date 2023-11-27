@@ -8,8 +8,7 @@ export default function Subscribe() {
                     <div className="row align-items-center">
                         <div className="col-lg-6">
                             <div className="heading2 white-heading no-margin-heading">
-                                <small className="heading-top"><img src="/assets/img/icons/hands.svg" alt="" />We Are Here For Your Tax
-                                    Relief.</small>
+                                <small className="heading-top">Stay Updated with Industry Insights 📰</small>
                                 <h2>Join Us today and let us help <span className="heilight-right">you</span> <br /> to grow your
                                     business.</h2>
                             </div>

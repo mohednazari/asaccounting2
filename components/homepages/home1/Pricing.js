@@ -12,8 +12,7 @@ export default function Pricing() {
                     <div className="row">
                         <div className="col-md-5 m-auto">
                             <div className="heading2 text-center">
-                                <small data-aos="fade-up" data-aos-duration={600} className="heading-top"><img src="/assets/img/icons/hands.svg" alt="" />We Are Here For Your Tax
-                                    Relief.</small>
+                                <small data-aos="fade-up" data-aos-duration={600} className="heading-top">Transparent Pricing Plans for Every Smile 😁</small>
                                 <h2 data-aos="fade-up" data-aos-duration={800}><span className="heilight-left">We</span> offer best
                                     cost
                                     effective tax consultation solution. </h2>
