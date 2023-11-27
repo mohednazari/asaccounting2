@@ -23,8 +23,7 @@ export default function About() {
                         </div>
                         <div className="col-lg-6">
                             <div className="heading2 no-margin-heading ml50">
-                                <small data-aos="fade-left" data-aos-duration={600} className="heading-top"><img src="/assets/img/icons/hands.svg" alt="" />We Are Here For Your Tax
-                                    Relief.</small>
+                                <small data-aos="fade-left" data-aos-duration={600} className="heading-top">👨‍⚕️ Financial Expertise for Your Dental Care Excellence.</small>
                                 <h2 data-aos="fade-left" data-aos-duration={800}>Excellence in Accounting for Dental Professionals</h2>
                                 <p data-aos="fade-left" data-aos-duration={1000}>At ASAccounting, we are more than just accountants; we are the guardians of your financial well-being. Our firm is built on the cornerstone of trust and specialized knowledge in the dental sector. We pride ourselves on providing comprehensive accounting services tailored to the unique financial needs of dental professionals. Through meticulous financial management and strategic foresight, we empower your practice to flourish while you focus on providing exceptional dental care. Our dedicated team is committed to your success, ensuring each financial decision aligns with your practice's vision and goals.</p>
                                 <p data-aos="fade-left" data-aos-duration={1000}>Learn more about our story, our values, and the people who make ASAccounting the preferred financial ally for dental practitioners.</p>

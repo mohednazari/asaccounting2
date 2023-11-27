@@ -9,8 +9,7 @@ export default function Testimonial() {
                     <div className="row">
                         <div className="col-md-7 m-auto">
                             <div className="heading2 white-heading text-center">
-                                <small data-aos="fade-up" data-aos-duration={600} className="heading-top"><img src="/assets/img/icons/hands.svg" alt="" />We Are Here For Your Tax
-                                    Relief.</small>
+                                <small data-aos="fade-up" data-aos-duration={600} className="heading-top"><img src="/assets/img/icons/hands.svg" alt="" />Hear From Our Clients 🗣️</small>
                                 <h2 data-aos="fade-up" data-aos-duration={800}><span className="heilight-left">We</span>'ve dedicated our expertise to ensuring dental practices like yours benefit from maximized tax savings and optimized financial strategies.</h2>
                             </div>
                         </div>

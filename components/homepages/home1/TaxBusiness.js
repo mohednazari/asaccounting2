@@ -9,11 +9,8 @@ export default function TaxBusiness() {
                     <div className="row">
                         <div className="col-md-4 m-auto">
                             <div className="heading2 white-heading text-center">
-                                <small data-aos="fade-up" data-aos-duration={600} className="heading-top"><img src="/assets/img/icons/hands.svg" alt="" />We Are Here For Your Tax
-                                    Relief.</small>
-                                <h2 data-aos="fade-up" data-aos-duration={800}><span className="heilight-left">Consultia</span> tax
-                                    is built for
-                                    small business.</h2>
+                                <small data-aos="fade-up" data-aos-duration={600} className="heading-top">🤝 Growing Your Business with Trusted Financial Insights.</small>
+                                <h2 data-aos="fade-up" data-aos-duration={800}><span className="heilight-left">Our</span>Services</h2>
                             </div>
                         </div>
                     </div>

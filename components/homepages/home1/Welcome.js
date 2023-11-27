@@ -10,7 +10,7 @@ export default function Welcome() {
                     <div className="row align-items-center">
                         <div className="col-lg-6">
                             <div className="title title2 ">
-                                <small data-aos="fade-right" data-aos-duration={600} className="heading-top2"><img src="/assets/img/icons/service-4.png" alt="" />Your Partner in Financial Excellence for Dental Practices</small>
+                                <small data-aos="fade-right" data-aos-duration={600} className="heading-top2">🦷 Specialized Accounting for Smiling Practices.</small>
                                 <h1 data-aos="fade-right" data-aos-duration={800}>Expert Accounting Solutions for Dental Practices</h1>
                                 <p data-aos="fade-right" data-aos-duration={1000}>Tailored Financial Services to Grow Your Dental Business</p>
                                 <div className="space30" />

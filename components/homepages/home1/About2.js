@@ -11,8 +11,7 @@ export default function About2() {
                         <div className="col-lg-6 d-none d-lg-block">
                             <div className="mr50">
                                 <div className="heading2 no-margin-heading">
-                                    <small data-aos="fade-right" data-aos-duration={600} className="heading-top"><img src="/assets/img/icons/hands.svg" alt="" />We Are Here For Your Tax
-                                        Relief.</small>
+                                    <small data-aos="fade-right" data-aos-duration={600} className="heading-top">🔍 Detailed Accounting for Transparent Business Success.</small>
                                     <h2 data-aos="fade-right" data-aos-duration={800}>Mastering Financial Complexities for Diverse Business Landscapes</h2>
                                     <p data-aos="fade-right" data-aos-duration={1000}>Navigate your business's financial journey with our expert accounting services. Precision, compliance, and strategic insight come standard with our bookkeeping, tax, and consulting solutions. Join our portfolio of over 300 thriving businesses.
                                     </p>
