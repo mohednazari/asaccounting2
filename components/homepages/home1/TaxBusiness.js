@@ -31,13 +31,13 @@ export default function TaxBusiness() {
                                 <Link href="#" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
                             </div>
                         </div>
-                        <div className="col-md-6" data-aos="fade-up" data-aos-duration={800}>
+                        <div className="col-md-6" data-aos="fade-up" data-aos-duration={600}>
                             <div className="single-business trans-1">
                                 <div className="business-icon">
                                     <img src="/assets/img/icons/tax-business2.png" alt="" />
                                 </div>
-                                <h3>Corporation Tax</h3>
-                                <p>Minimize your corporate tax liabilities with strategic planning and compliance. Our experts stay abreast of the latest regulations to provide proactive solutions that align with your company's goals.</p>
+                                    <h3>Corporation Tax</h3>
+                                    <p>Minimize your corporate tax liabilities with strategic planning and compliance. Our experts stay abreast of the latest regulations to provide proactive solutions that align with your company's goals.</p>
                                 <Link href="#" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
                             </div>
                         </div>
@@ -61,7 +61,7 @@ export default function TaxBusiness() {
                                 <Link href="#" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
                             </div>
                         </div>
-                        <div className="col-md-6" data-aos="fade-up" data-aos-duration={1200}>
+                        <div className="col-md-6" data-aos="fade-up" data-aos-duration={1400}>
                             <div className="single-business trans-1">
                                 <div className="business-icon">
                                     <img src="/assets/img/icons/tax-business4.png" alt="" />
@@ -71,7 +71,7 @@ export default function TaxBusiness() {
                                 <Link href="#" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
                             </div>
                         </div>
-                        <div className="col-md-6" data-aos="fade-up" data-aos-duration={1200}>
+                        <div className="col-md-6" data-aos="fade-up" data-aos-duration={1600}>
                             <div className="single-business trans-1">
                                 <div className="business-icon">
                                     <img src="/assets/img/icons/tax-business4.png" alt="" />
