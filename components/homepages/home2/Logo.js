@@ -9,7 +9,7 @@ export default function Logo() {
                     <div className="row">
                         <div className="col-md-8 m-auto">
                             <div className="heading4 text-center" data-aos="fade-up" data-aos-duration={900}>
-                                <h4>Our Clients  Partner</h4>
+                                <h4>Our Trusted Partners</h4>
                             </div>
                         </div>
                     </div>

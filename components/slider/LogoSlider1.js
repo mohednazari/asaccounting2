@@ -45,34 +45,10 @@ export default function LogoSlider1() {
         <>
             <Swiper {...swiperOptions} className="logos owl-carousel" data-aos="zoom-in" data-aos-anchor-placement="top-bottom" data-aos-offset={50} data-aos-duration={600}>
                 <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/c-logo-1.png" alt="" />
+                    <img src="/assets/img/logo/fta.jpg" alt="" />
                 </SwiperSlide>
                 <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/c-logo-2.png" alt="" />
-                </SwiperSlide>
-                <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/c-logo-3.png" alt="" />
-                </SwiperSlide>
-                <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/c-logo-4.png" alt="" />
-                </SwiperSlide>
-                <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/c-logo-5.png" alt="" />
-                </SwiperSlide>
-                <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/c-logo-1.png" alt="" />
-                </SwiperSlide>
-                <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/c-logo-2.png" alt="" />
-                </SwiperSlide>
-                <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/c-logo-3.png" alt="" />
-                </SwiperSlide>
-                <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/c-logo-4.png" alt="" />
-                </SwiperSlide>
-                <SwiperSlide className="single-logo">
-                    <img src="/assets/img/logo/c-logo-5.png" alt="" />
+                    <img src="/assets/img/logo/snatchdigital.png" alt="" />
                 </SwiperSlide>
             </Swiper>
         </>
