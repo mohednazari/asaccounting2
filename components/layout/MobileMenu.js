@@ -75,7 +75,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
                             <div className="footer-contact">
                                 <div className="single-contact">
                                     <div className="contact-icon">
-                                        <img src="/assets/img/icons/contact-email2.svg" alt="" />
+                                        <img src="/assets/img/icons/contact-email6.svg" alt="" />
                                     </div>
                                     <a href="mailto:Admin@SADentalAccountants.Com">Admin@SADentalAccountants.Com</a>
                                 </div>
