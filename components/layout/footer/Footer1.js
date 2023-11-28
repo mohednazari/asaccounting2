@@ -18,7 +18,7 @@ export default function Footer1() {
                                 <h3>Our Company</h3>
                                 <div className="footer-menu">
                                     <ul>
-                                        <li><Link href="#">About us</Link></li>
+                                        <li><Link href="about-1">About us</Link></li>
                                         <li><Link href="#">Privacy Policy</Link></li>
                                         <li><Link href="#">Terms & Conditions</Link></li>
                                         <li><Link href="#">Help Centre</Link></li>
@@ -31,13 +31,13 @@ export default function Footer1() {
                                 <h3>Our Services</h3>
                                 <div className="footer-menu">
                                     <ul>
-                                        <li><Link href="#">Personal Tax</Link></li>
-                                        <li><Link href="#">Corporation Tax</Link></li>
-                                        <li><Link href="#">Financial Accounting</Link></li>
-                                        <li><Link href="#">Management Accounting</Link></li>
-                                        <li><Link href="#">Payroll</Link></li>
-                                        <li><Link href="#">Mortgages and Loans</Link></li>
-
+                                        <li><Link href="/personal-tax">Personal Tax</Link></li>
+                                        <li><Link href="/corporation-tax">Corporation Tax</Link></li>
+                                        <li><Link href="/financial-accounting">Financial Accounting</Link></li>
+                                        <li><Link href="/management-accounting">Management Accounting</Link></li>
+                                        <li><Link href="/payroll">Payroll</Link></li>
+                                        <li><Link href="/mortgages-loans">Mortgages and Loans</Link></li>
+                                        <li><Link href="/making-tax-digital">Making Tax Digital(MTD)</Link></li>
                                     </ul>
                                 </div>
                             </div>
@@ -75,7 +75,7 @@ export default function Footer1() {
                     </div>
                     <div className="row align-items-center copyright2">
                         <div className="col-lg-6">
-                            <p>© 2023 ASAccounting | Design by AtlasVision. All Rights Reserved.</p>
+                            <p>© 2023 SA Dental Accountants | Design by AtlasVision. All Rights Reserved.</p>
                         </div>
                         <div className="col-lg-6 text-right">
                             <div className="social social2">
