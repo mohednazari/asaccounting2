@@ -90,10 +90,10 @@ import Layout from "@/components/layout/Layout"
                                             Our team of experienced tax professionals is dedicated to offering the smart thinking and strategic planning your business requires. With our guidance, you'll navigate the complexities of corporation tax efficiently, allowing you to focus on growing and managing your business with confidence and peace of mind.
                                         </p>
                                         <div className="col-lg-12 m-auto inner-title text-center section-padding3">
-                                        <h2>
-                                            Let SA Dental Accountants be your ally in achieving a more favorable and efficient corporate tax outcome.
-                                        </h2>
-                                    </div>
+                                            <h2>
+                                                Let SA Dental Accountants be your ally in achieving a more favorable and efficient corporate tax outcome.
+                                            </h2>
+                                        </div>
                                         <div className="space30" />
                                         <div className="row">
                                             <div className="col-lg-12">

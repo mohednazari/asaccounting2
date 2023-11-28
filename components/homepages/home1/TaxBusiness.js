@@ -20,8 +20,8 @@ export default function TaxBusiness() {
                                     <div className="business-icon">
                                         <img src="/assets/img/icons/tax-business2.png" alt="" />
                                     </div>
-                                        <h3>Corporation Tax</h3>
-                                        <p>Effectively minimize your corporate tax liabilities with our strategic planning and rigorous compliance. Our experts are continually updated on the latest regulations to provide solutions for your company's financial success.</p>
+                                        <h3>Personal Tax</h3>
+                                        <p>Navigate the complexities of personal tax with ease. Our dedicated team ensures you benefit from every deduction and credit available to you, optimizing your tax position and guiding you through the ever-changing tax landscape.</p>
                                         <Link href="/personal-tax" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>                                </div>
                             </div>
                         <div className="col-md-6" data-aos="fade-up" data-aos-duration={600}>

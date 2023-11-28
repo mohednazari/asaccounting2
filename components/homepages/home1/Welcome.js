@@ -16,7 +16,7 @@ export default function Welcome() {
                                 <div className="space30" />
                                 <div className="btn-group" data-aos="fade-right" data-aos-duration={1200}>
                                     <Link className="theme-btn-2" href="#">Get An Estimated Quote <span><i className="fa-solid fa-arrow-right" /></span></Link>
-                                    <Link className="theme-btn-3" href="#">Schdule A Call <span><i className="fa-solid fa-arrow-right" /></span></Link>
+                                    <Link className="theme-btn-3" href="#">Schedule A Call <span><i className="fa-solid fa-arrow-right" /></span></Link>
                                 </div>
                                 <div className="space80" />
                                 <div className="logo-area2" data-aos="fade-right" data-aos-duration={1400}>

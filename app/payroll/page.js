@@ -5,27 +5,23 @@ import Layout from "@/components/layout/Layout"
      return (
          <>
 
-             <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Personal Tax">
+             <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Payroll">
                  <div>
-                     <div className=" bg-13 ">
+                     <div className="bg-13">
                             <div className="col-lg-6 m-auto inner-title text-center section-padding3">
-                              <h2>We’re making work meaningful for everyone, everywhere.</h2>
+                              <h2>Streamlined Payroll Services: Simplifying Your Financial Responsibilities</h2>
                           </div>
                          <div className="container">
                             <div className="row align-items-center">
-                                <div className="col-lg-6 section-padding">
+                                <div className="padding-left padding-bottom col-lg-6 ">
                                     <div className="mr50">
                                         <div className="heading2 no-margin-heading">
-                                            <small className="heading-top inner-heading-top"><img src="/assets/img/icons/hands.svg" alt="" />Marketing
-                                                Advertising</small>
+                                            <small className="heading-top inner-heading-top">💼 Payroll Perfection: Streamlined & Compliant</small>
                                             <h2>
-                                                our experts business strategists create a feasible route for
-                                                your startup
+                                                Experience Meets Efficiency in Payroll Management
                                             </h2>
                                             <p>
-                                                Attend is more than a platform. It's a movement to lift the
-                                                stigma surrounding money and relieve the financial stress that
-                                                can lead to burnout. Interested in joining our team?
+                                                Navigating payroll complexities can be a daunting task for any business. At SA Dental Accountants, we bring a wealth of experience to simplify and streamline your payroll process. Whether you're setting up payroll for the first time or looking to enhance an existing system, we're here to guide you every step of the way. From registering you as an employer, if necessary, to designing a payroll process that is both compliant and tailored to your specific needs, our goal is to ensure your payroll management is as seamless and hassle-free as possible.
                                             </p>
                                             <div className="space30" />
                                             <Link className="theme-btn-11" href="#">Book Now
@@ -35,7 +31,7 @@ import Layout from "@/components/layout/Layout"
                                 </div>
                                 <div className="col-lg-6 mobile-hidden">
                                     <div className="about-bg-main-img position-relative ml50">
-                                        <img className="border-radius" src="/assets/img/service/service-inner.png" alt="" />
+                                        <img className="border-radius" src="/assets/img/service/payroll-service.jpg" alt="" />
                                         <div className="corner-right-bottom-shape2 position-absolute">
                                             <img src="/assets/img/shapes/shape-right-bottom2.png" alt="" />
                                         </div>
@@ -51,133 +47,43 @@ import Layout from "@/components/layout/Layout"
                             <div className="row">
                                 <div className="col-lg-12">
                                     <div className="single-service-contents">
-                                        <h3>Marketing  Advertising</h3>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
-                                        <div className="space30" />
-                                        <div className="single-blog-img">
-                                            <img src="/assets/img/blog/single1.png" alt="" />
-                                        </div>
-                                        <div className="space40" />
-                                        <h4>Conditions of use the Saudi Quality Mark</h4>
+                                        <h3>Comprehensive Payroll Services: Your Assurance of Accuracy and Compliance</h3>
                                         <div className="service-list">
                                             <ul>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> The
-                                                    Mark should be printed on the product to be identical to the
-                                                    official Mark form.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Monthly Payroll Services:
                                                 </li>
+                                                <p>We manage your payroll on a monthly basis, ensuring accuracy and timeliness in every cycle.</p>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> It
-                                                    shouldn’t be labeled on the correspondence of the facility.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Submission of Monthly RTI to HMRC:
                                                 </li>
+                                                <p>We take care of the Real Time Information (RTI) submissions to HMRC, ensuring you’re always up-to-date with your obligations.</p>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> The
-                                                    facility can get back to the granting authority for official
-                                                    approval on the documents intended to label the mark.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Electronic Payslips and Yearly P60s:
                                                 </li>
+                                                <p>Your employees will receive monthly electronic payslips and yearly P60s, providing them with clear, accessible records of their earnings and deductions.</p>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> In
-                                                    case there is no space for the Quality Mark or it can’t be
-                                                    labeled on the product, the facility should get back to the
-                                                    granting authority to get approval on the labeling place.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Yearly P35 Submission:
                                                 </li>
+                                                <p>We handle the annual submission of the P35 form, a summary of employee earnings and deductions for the year.</p>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> In
-                                                    case there is no space for the Quality Mark or it can’t be
-                                                    labeled on the product, the facility should get back to the
-                                                    granting authority to get approval on the labeling place.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> HMRC Correspondences:
                                                 </li>
-                                                <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> The
-                                                    merchant has the right to label the Quality Mark on the
-                                                    products within the scope of the license.
-                                                </li>
+                                                <p>Any correspondence related to payroll with HMRC is managed by us, providing you peace of mind and more time to focus on your business.</p>
                                             </ul>
                                         </div>
                                         <div className="space30" />
                                         <div className="single-blog-img">
-                                            <img src="/assets/img/blog/single1.png" alt="" />
+                                            <img src="/assets/img/service/payroll-management.jpg" alt="" />
                                         </div>
                                         <div className="space30" />
-                                        <h4>Conditions of use the Saudi Quality Mark</h4>
+                                        <h3>Your Partner in Payroll Precision</h3>
                                         <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
+                                            At SA Dental Accountants, we don’t just process numbers; we provide a payroll service that supports and enhances your business operations. By entrusting your payroll responsibilities to us, you gain not only time and peace of mind but also the assurance that your payroll is in expert hands.
                                         </p>
                                         <div className="space30" />
-                                        <div className="row">
-                                            <div className="col-lg-6">
-                                                <div className="single-service-advise">
-                                                    <h4>Why do I need it?</h4>
-                                                    <p>
-                                                        An experienced PM is essential to ensure a well-executed
-                                                        and successful project. Assigning non-PMs to handle PM
-                                                        work internally is challenging due to competing
-                                                        priorities, workload, and lack of PM training. A
-                                                        consultant PM is an experienced outside expert dedicated
-                                                        to your project team and their success.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                            <div className="col-lg-6">
-                                                <div className="single-service-advise">
-                                                    <h4>Why Consultia?</h4>
-                                                    <p>
-                                                        An experienced PM is essential to ensure a well-executed
-                                                        and successful project. Assigning non-PMs to handle PM
-                                                        work internally is challenging due to competing
-                                                        priorities, workload, and lack of PM training. A
-                                                        consultant PM is an experienced outside expert dedicated
-                                                        to your project team and their success.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div className="space30" />
-                                        <h4>Conditions of use the Saudi Quality Mark</h4>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
-                                        <div className="inner-quote">
-                                            <p>
-                                                “ Success is not final; failure is not fatal: it is the
-                                                courage to continue that counts.”
-                                            </p>
-                                            <Link href="#">Winston Churchill.</Link>
+                                        <div className="col-12 text-center">
+                                            <Link className="theme-btn-3" href="#"> Schedule A Call <span><i className="fa-solid fa-arrow-right" /></span></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -189,15 +95,6 @@ import Layout from "@/components/layout/Layout"
                     {/*=====Service Start=======*/}
                     <div className="section-padding2">
                         <div className="container">
-                            <div className="row">
-                                <div className="col-lg-6 m-auto text-center">
-                                    <div className="heading2">
-                                        <small className="heading-top inner-heading-top"><img src="/assets/img/icons/hands.svg" alt="" />Our Success in
-                                            Numbers</small>
-                                        <h2>Check out more services</h2>
-                                    </div>
-                                </div>
-                            </div>
                             <div className="row">
                                 <div className="col-lg-4 col-md-6">
                                     <div className="single-inner-service trans-1">

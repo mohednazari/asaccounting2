@@ -5,37 +5,33 @@ import Layout from "@/components/layout/Layout"
      return (
          <>
 
-             <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Personal Tax">
+             <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Mortgages And Loans">
                  <div>
                      <div className=" bg-13 ">
                             <div className="col-lg-6 m-auto inner-title text-center section-padding3">
-                              <h2>We’re making work meaningful for everyone, everywhere.</h2>
+                              <h2>Navigating Mortgages and Loans: Expert Solutions for Self-Employed Individuals</h2>
                           </div>
                          <div className="container">
                             <div className="row align-items-center">
                                 <div className="col-lg-6 section-padding">
                                     <div className="mr50">
                                         <div className="heading2 no-margin-heading">
-                                            <small className="heading-top inner-heading-top"><img src="/assets/img/icons/hands.svg" alt="" />Marketing
-                                                Advertising</small>
+                                            <small className="heading-top inner-heading-top">🏡 Tailored Mortgages: Simplified Success</small>
                                             <h2>
-                                                our experts business strategists create a feasible route for
-                                                your startup
+                                                Demystifying the Mortgage Process for the Self-Employed 
                                             </h2>
                                             <p>
-                                                Attend is more than a platform. It's a movement to lift the
-                                                stigma surrounding money and relieve the financial stress that
-                                                can lead to burnout. Interested in joining our team?
+                                                The landscape of obtaining a mortgage as a self-employed individual has changed significantly over the past five years. While it may seem more challenging, it is far from impossible with the right guidance and expertise. The key lies in identifying the right lenders — ones who appreciate the unique circumstances of self-employed borrowers and base their decisions on more than just algorithms.
                                             </p>
                                             <div className="space30" />
-                                            <Link className="theme-btn-11" href="#">Book Now
+                                            <Link className="theme-btn-11" href="#">Get Free Consultation
                                                 <img src="/assets/img/icons/arrow-up-right.svg" alt="" /></Link>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-lg-6 mobile-hidden">
                                     <div className="about-bg-main-img position-relative ml50">
-                                        <img className="border-radius" src="/assets/img/service/service-inner.png" alt="" />
+                                        <img className="border-radius" src="/assets/img/service/mortgage-loan.png" alt="" />
                                         <div className="corner-right-bottom-shape2 position-absolute">
                                             <img src="/assets/img/shapes/shape-right-bottom2.png" alt="" />
                                         </div>
@@ -51,135 +47,140 @@ import Layout from "@/components/layout/Layout"
                             <div className="row">
                                 <div className="col-lg-12">
                                     <div className="single-service-contents">
-                                        <h3>Marketing  Advertising</h3>
+                                        <h3>Personalized Lending Solutions: Human Decisions, Not Just Numbers</h3>
                                         <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
+                                            At SA Dental Accountants, we specialize in connecting self-employed individuals with lenders who use traditional underwriting models. This approach ensures that a knowledgeable professional assesses your application, considering all aspects of your financial situation. We have established strong relationships with leading mortgage lenders in the industry, boasting a high success rate in securing approved mortgage applications for our clients.
                                         </p>
+                                        <h3>Key Factors in Securing an Approved Mortgage Application</h3>
                                         <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
+                                            Every mortgage application is unique, and several important factors come into play. We guide our clients through these considerations, ensuring a well-informed application process. Key factors include:
                                         </p>
-                                        <div className="space30" />
-                                        <div className="single-blog-img">
-                                            <img src="/assets/img/blog/single1.png" alt="" />
-                                        </div>
-                                        <div className="space40" />
-                                        <h4>Conditions of use the Saudi Quality Mark</h4>
+
                                         <div className="service-list">
+                                            <h3>For Residential Mortgages:</h3>
                                             <ul>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> The
-                                                    Mark should be printed on the product to be identical to the
-                                                    official Mark form.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Property Type: Freehold or Leasehold, Owner-occupied or Buy-to-let
                                                 </li>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> It
-                                                    shouldn’t be labeled on the correspondence of the facility.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Ownership: Sole or Joint
                                                 </li>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> The
-                                                    facility can get back to the granting authority for official
-                                                    approval on the documents intended to label the mark.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Financials: Size of Deposit, Purchase Price vs Market Value 
                                                 </li>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> In
-                                                    case there is no space for the Quality Mark or it can’t be
-                                                    labeled on the product, the facility should get back to the
-                                                    granting authority to get approval on the labeling place.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Assessment: Surveyor Reports
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div className="space30" />
+                                        <div className="service-list">
+                                            <h3>For Commercial Mortgages:</h3>
+                                            <ul>
+                                                <li>
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Business Dynamics: Type of Business, Existing or New Setup, Owner's Experience
                                                 </li>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> In
-                                                    case there is no space for the Quality Mark or it can’t be
-                                                    labeled on the product, the facility should get back to the
-                                                    granting authority to get approval on the labeling place.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Financial Health: Serviceability of Financial Accounts, Cashflow Forecasts, Business Plans
                                                 </li>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> The
-                                                    merchant has the right to label the Quality Mark on the
-                                                    products within the scope of the license.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Investment: Size of Deposit, Equity as Security, Purchase Price vs Market Value
+                                                </li>
+                                                <li>
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Evaluation: Third-Party Valuation Reports
                                                 </li>
                                             </ul>
                                         </div>
                                         <div className="space30" />
                                         <div className="single-blog-img">
-                                            <img src="/assets/img/blog/single1.png" alt="" />
+                                            <img src="/assets/img/service/mortgage-consultant.jpg" alt="" />
                                         </div>
-                                        <div className="space30" />
-                                        <h4>Conditions of use the Saudi Quality Mark</h4>
+                                        <div className="space40" />
+                                        <div className="col-lg-12 m-auto inner-title text-center section-padding3">
+                                            <h2>
+                                                Why Choose Us: Your Trusted Partner in Mortgages and Loans 🏠
+                                            </h2>
+
+                                        </div>
+                                        <h4>Navigating Your Financial Path with SA Dental Accountants</h4>
                                         <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
+                                        In the complex world of mortgages and loans, finding a reliable and knowledgeable partner is key. At SA Dental Accountants, we offer a unique blend of expertise, personalized service, and a deep understanding of the financial landscape to help you secure the best possible outcomes.
                                         </p>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
+                                        <div className="row">
+                                            <div className="col-lg-6">
+                                                <div className="single-service-advise2">
+                                                <h3>Expert Guidance in a Complex Market</h3>
+                                                    <h4>● Specialized Knowledge:</h4>
+                                                    <p>
+                                                        Our team possesses extensive experience in navigating the intricacies of mortgage and loan applications, especially tailored to meet the diverse needs of our clients.
+                                                    </p>
+                                                    <h4>● Personalized Solutions:</h4>
+                                                    <p>
+                                                        We understand that every financial situation is unique. That’s why we provide customized advice and solutions, ensuring they align perfectly with your specific goals and circumstances.
+                                                    </p>    
+                                                </div>
+                                            </div>
+                                            <div className="col-lg-6">
+                                                <div className="single-service-advise2">
+                                                <h3>Strong Industry Relationships</h3>
+                                                    <h4>● Access to the Best Rates and Terms:</h4>
+                                                    <p>
+                                                        Our established relationships with a wide range of lenders mean we can offer you competitive rates and favorable terms that might not be available elsewhere.
+                                                    </p>
+                                                    <h4>● Efficient Processing:</h4>
+                                                    <p>
+                                                        We expedite the application process, leveraging our connections and expertise to avoid common pitfalls and delays.
+                                                    </p>    
+                                                </div>
+                                            </div>
+                                        </div>
                                         <div className="space30" />
                                         <div className="row">
                                             <div className="col-lg-6">
-                                                <div className="single-service-advise">
-                                                    <h4>Why do I need it?</h4>
+                                                <div className="single-service-advise2">
+                                                <h3>Comprehensive Support</h3>
+                                                    <h4>● Beyond Transactions:</h4>
                                                     <p>
-                                                        An experienced PM is essential to ensure a well-executed
-                                                        and successful project. Assigning non-PMs to handle PM
-                                                        work internally is challenging due to competing
-                                                        priorities, workload, and lack of PM training. A
-                                                        consultant PM is an experienced outside expert dedicated
-                                                        to your project team and their success.
+                                                        We believe in building long-term relationships with our clients. Our support extends beyond securing a mortgage or loan; we’re here to assist you with ongoing financial advice and adjustments as your needs evolve.
+                                                    </p>
+                                                    <h4>● Transparent Communication: </h4>
+                                                    <p>
+                                                    Every step of the way, we ensure you’re informed and comfortable. We prioritize clear, honest communication, so you always know where you stand.
                                                     </p>
                                                 </div>
                                             </div>
                                             <div className="col-lg-6">
-                                                <div className="single-service-advise">
-                                                    <h4>Why Consultia?</h4>
+                                                <div className="single-service-advise2">
+                                                <h3>Your Success is Our Priority</h3>
+                                                    <h4>● Proven Track Record:</h4>
                                                     <p>
-                                                        An experienced PM is essential to ensure a well-executed
-                                                        and successful project. Assigning non-PMs to handle PM
-                                                        work internally is challenging due to competing
-                                                        priorities, workload, and lack of PM training. A
-                                                        consultant PM is an experienced outside expert dedicated
-                                                        to your project team and their success.
+                                                        Our success is measured by the satisfaction and achievements of our clients. We pride ourselves on a history of helping clients turn their financial goals into realities.
                                                     </p>
+                                                    <h4>● Commitment to Excellence:</h4>
+                                                    <p>
+                                                        Every client is important to us. We commit to providing the highest level of service and advice, tailored to your unique financial journey.
+                                                    </p>  
                                                 </div>
                                             </div>
                                         </div>
                                         <div className="space30" />
-                                        <h4>Conditions of use the Saudi Quality Mark</h4>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
                                         <div className="inner-quote">
                                             <p>
-                                                “ Success is not final; failure is not fatal: it is the
-                                                courage to continue that counts.”
+                                                “Debt certainly isn’t always a bad thing. A mortgage can help you afford a home. Student loans can be a necessity in getting a good job. Both are investments worth making, and both come with fairly low interest rates.”
                                             </p>
-                                            <Link href="#">Winston Churchill.</Link>
+                                            <Link href="#">Jean Chatzky</Link>
                                         </div>
                                     </div>
+                                    <div className="space30" />
+                                    <div className="col-lg-12 m-auto inner-title text-center section-padding3">
+                                            <h2>
+                                                Connect with Us Today
+                                            </h2>
+
+                                        </div>
+                                        <div className="col-12 text-center">
+                                            <Link className="theme-btn-3" href="#"> Schedule A Call <span><i className="fa-solid fa-arrow-right" /></span></Link>
+                                        </div>
                                 </div>
 
                             </div>
@@ -189,15 +190,6 @@ import Layout from "@/components/layout/Layout"
                     {/*=====Service Start=======*/}
                     <div className="section-padding2">
                         <div className="container">
-                            <div className="row">
-                                <div className="col-lg-6 m-auto text-center">
-                                    <div className="heading2">
-                                        <small className="heading-top inner-heading-top"><img src="/assets/img/icons/hands.svg" alt="" />Our Success in
-                                            Numbers</small>
-                                        <h2>Check out more services</h2>
-                                    </div>
-                                </div>
-                            </div>
                             <div className="row">
                                 <div className="col-lg-4 col-md-6">
                                     <div className="single-inner-service trans-1">

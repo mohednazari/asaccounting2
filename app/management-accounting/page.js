@@ -5,30 +5,26 @@ import Layout from "@/components/layout/Layout"
      return (
          <>
 
-             <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Personal Tax">
+             <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Management Accounting">
                  <div>
                      <div className=" bg-13 ">
                             <div className="col-lg-6 m-auto inner-title text-center section-padding3">
-                              <h2>We’re making work meaningful for everyone, everywhere.</h2>
+                              <h2>Steering Your Business with Insightful Reporting</h2>
                           </div>
                          <div className="container">
                             <div className="row align-items-center">
-                                <div className="col-lg-6 section-padding">
+                                <div className="padding-left padding-bottom col-lg-6">
                                     <div className="mr50">
                                         <div className="heading2 no-margin-heading">
-                                            <small className="heading-top inner-heading-top"><img src="/assets/img/icons/hands.svg" alt="" />Marketing
-                                                Advertising</small>
+                                            <small className="heading-top inner-heading-top">📊 Strategic Finance: Elevate with Management Accounting</small>
                                             <h2>
-                                                our experts business strategists create a feasible route for
-                                                your startup
+                                                Empowering Your Business Decisions with Tailored Financial Intelligence
                                             </h2>
                                             <p>
-                                                Attend is more than a platform. It's a movement to lift the
-                                                stigma surrounding money and relieve the financial stress that
-                                                can lead to burnout. Interested in joining our team?
+                                                In the fast-paced world of business, timely and insightful financial information isn't just helpful – it's a necessity for growth and stability. Our management accounting services are meticulously crafted to provide you with the essential financial intelligence that drives businesses forward. We go beyond traditional accounting; we offer a customized approach to manage your accounts, ensuring that you receive services that perfectly align with your unique business objectives.
                                             </p>
                                             <div className="space30" />
-                                            <Link className="theme-btn-11" href="#">Book Now
+                                            <Link className="theme-btn-11" href="#">Schedule A Call
                                                 <img src="/assets/img/icons/arrow-up-right.svg" alt="" /></Link>
                                         </div>
                                     </div>
@@ -51,137 +47,56 @@ import Layout from "@/components/layout/Layout"
                             <div className="row">
                                 <div className="col-lg-12">
                                     <div className="single-service-contents">
-                                        <h3>Marketing  Advertising</h3>
+                                        <h3>Precision and Partnership in Managing Your Finances</h3>
                                         <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
+                                            Our commitment is to manage your business finances with unmatched precision and accuracy. We don’t just answer your questions; we anticipate them. Our dedicated team of management accountants collaborates closely with you, ensuring a deep understanding of your specific business dynamics. This partnership approach allows us to provide personalized support and insights, essential for navigating the complexities of your business landscape.
                                         </p>
                                         <div className="space30" />
                                         <div className="single-blog-img">
                                             <img src="/assets/img/blog/single1.png" alt="" />
                                         </div>
                                         <div className="space40" />
-                                        <h4>Conditions of use the Saudi Quality Mark</h4>
+                                        <h4>Comprehensive Management Accounting Services: Your Financial Command Center</h4>
+                                        <div className="space30" />
                                         <div className="service-list">
                                             <ul>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> The
-                                                    Mark should be printed on the product to be identical to the
-                                                    official Mark form.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Customer and Supplier Reports:
                                                 </li>
+                                                <p>Unlock insights into your key business relationships, understanding the impact and opportunities each brings.</p>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> It
-                                                    shouldn’t be labeled on the correspondence of the facility.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Cash-Flow Reports and Forecasts:
                                                 </li>
+                                                <p>Stay ahead with detailed cash flow analyses, forecasting future scenarios to ensure financial fluidity and informed decision making.</p>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> The
-                                                    facility can get back to the granting authority for official
-                                                    approval on the documents intended to label the mark.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Profit and Loss Reports:
                                                 </li>
+                                                <p>Gain a clear view of your profitability, identifying trends and areas for improvement.</p>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> In
-                                                    case there is no space for the Quality Mark or it can’t be
-                                                    labeled on the product, the facility should get back to the
-                                                    granting authority to get approval on the labeling place.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Balance Sheet Reports:
                                                 </li>
+                                                <p>A snapshot of your financial standing at any given moment, providing a comprehensive view of your assets, liabilities, and equity.</p>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> In
-                                                    case there is no space for the Quality Mark or it can’t be
-                                                    labeled on the product, the facility should get back to the
-                                                    granting authority to get approval on the labeling place.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Budget vs Actual Reports: 
                                                 </li>
+                                                <p>Track your financial performance against set budgets, empowering you to manage resources effectively and adjust strategies as needed.</p>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> The
-                                                    merchant has the right to label the Quality Mark on the
-                                                    products within the scope of the license.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Cost Centre and Project Analyses:
                                                 </li>
+                                                <p>Drill down into the financial details of specific departments or projects, understanding their profitability and cost implications.</p>
                                             </ul>
                                         </div>
                                         <div className="space30" />
-                                        <div className="single-blog-img">
-                                            <img src="/assets/img/blog/single1.png" alt="" />
+                                        <div className="col-lg-12 m-auto inner-title text-center section-padding3">
+                                            <h2>
+                                                Let's Navigate Your Financial Future Together
+                                            </h2>
                                         </div>
-                                        <div className="space30" />
-                                        <h4>Conditions of use the Saudi Quality Mark</h4>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
-                                        <div className="space30" />
-                                        <div className="row">
-                                            <div className="col-lg-6">
-                                                <div className="single-service-advise">
-                                                    <h4>Why do I need it?</h4>
-                                                    <p>
-                                                        An experienced PM is essential to ensure a well-executed
-                                                        and successful project. Assigning non-PMs to handle PM
-                                                        work internally is challenging due to competing
-                                                        priorities, workload, and lack of PM training. A
-                                                        consultant PM is an experienced outside expert dedicated
-                                                        to your project team and their success.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                            <div className="col-lg-6">
-                                                <div className="single-service-advise">
-                                                    <h4>Why Consultia?</h4>
-                                                    <p>
-                                                        An experienced PM is essential to ensure a well-executed
-                                                        and successful project. Assigning non-PMs to handle PM
-                                                        work internally is challenging due to competing
-                                                        priorities, workload, and lack of PM training. A
-                                                        consultant PM is an experienced outside expert dedicated
-                                                        to your project team and their success.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div className="space30" />
-                                        <h4>Conditions of use the Saudi Quality Mark</h4>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
-                                        <div className="inner-quote">
-                                            <p>
-                                                “ Success is not final; failure is not fatal: it is the
-                                                courage to continue that counts.”
-                                            </p>
-                                            <Link href="#">Winston Churchill.</Link>
+                                        <div className="col-12 text-center">
+                                            <Link className="theme-btn-3" href="#"> Schedule A Call <span><i className="fa-solid fa-arrow-right" /></span></Link>
                                         </div>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
