@@ -11,9 +11,9 @@ import Layout from "@/components/layout/Layout"
                             <div className="col-lg-6 m-auto inner-title text-center section-padding3">
                               <h2>Steering Your Business with Insightful Reporting</h2>
                           </div>
-                         <div className="container">
+                          <div className="container">
                             <div className="row align-items-center">
-                                <div className="padding-left padding-bottom col-lg-6">
+                                <div className="padding-left padding-bottom col-lg-6 ">
                                     <div className="mr50">
                                         <div className="heading2 no-margin-heading">
                                             <small className="heading-top inner-heading-top">📊 Strategic Finance: Elevate with Management Accounting</small>
