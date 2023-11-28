@@ -67,7 +67,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
                             <div className="footer-contact">
                                 <div className="single-contact">
                                     <div className="contact-icon">
-                                        <img src="/assets/img/icons/contact-phone2.svg" alt="" />
+                                        <img src="/assets/img/icons/contact-phone6.svg" alt="" />
                                     </div>
                                     <a href="tel:02080900372">02080 900 372</a>
                                 </div>
