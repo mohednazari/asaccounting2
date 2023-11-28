@@ -26,7 +26,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu }) {
                                         </div>
                                         <div className="quick_contact_content">
                                             <small>Speak to Our Advisors</small>
-                                            <Link href="/tel:02080 900 372">02080 900 372</Link>
+                                            <a href="tel:02080900372">02080 900 372</a>
                                         </div>
                                     </div>
                                 </div>

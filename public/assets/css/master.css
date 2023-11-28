@@ -1334,13 +1334,13 @@ img {
 }
 
 .bg12 {
-  background: url("../img/bg/bg7.png") no-repeat;
+  background: url("../img/bg/bg3.png") no-repeat;
   background-position: right center;
   background-size: cover;
 }
 
 .bg-13 {
-  background-color: #e7e8f4;
+  background-color: #e7eefb;
 }
 
 .bg-13-haf {
@@ -3406,10 +3406,10 @@ a.footer-logo {
 }
 
 .social.social2 ul li a {
-  color: #243D31;
+  color: #000402;
 }
 .social.social2 ul li a:hover {
-  background: #243D31;
+  background: #2E3E90;
   color: #ffffff;
 }
 
@@ -4691,7 +4691,7 @@ button.search-icon {
 }
 
 .theme-btn-11 {
-  background: #7977C6;
+  background: #2e3e90;
   box-shadow: 0 4px 25px rgba(121, 119, 198, 0.5);
   border-radius: 8px;
   font-family: "satoshi";
@@ -4726,7 +4726,7 @@ button.search-icon {
 }
 .theme-btn-11:hover {
   color: #ffffff;
-  background: #706de2;
+  background: #337CCF;
   transition: all 0.3s;
   transform: translateY(-3px);
 }
@@ -5211,7 +5211,7 @@ img.service-shape1 {
 }
 
 .single-service-advise {
-  background: #F8F8FC;
+  background: #e0e0e0;
   border-radius: 8px;
   padding: 30px;
 }
@@ -5220,6 +5220,7 @@ img.service-shape1 {
     margin-bottom: 30px;
   }
 }
+
 
 .single-service-advise p {
   font-size: 16px;
@@ -5256,7 +5257,7 @@ img.service-shape1 {
 }
 
 .inner-quote {
-  background: #E7E8F4;
+  background: #e7eefb;
   border-radius: 8px;
   padding: 30px;
   margin-top: 40px;
@@ -5605,7 +5606,7 @@ img.circle-text {
   font-size: 24px;
   line-height: 24px;
   text-transform: uppercase;
-  color: #7977C6;
+  color: #222b7e;
 }
 @media (max-width: 767px) {
   .inner-title p {
@@ -7438,8 +7439,8 @@ img.contact-shape1 {
 }
 
 .subscribe-4 .subscribe-from-wrap button {
-  color: #ffffff;
-  background: #161540;
+  color: #09120E;
+  background: #FDC24C;
   font-family: "satoshi";
   top: 9.5px;
   transition: all 0.3s;

@@ -50,7 +50,7 @@ export default function Footer1() {
                                         <div className="contact-icon">
                                             <img src="/assets/img/icons/contact-phone2.svg" alt="" />
                                         </div>
-                                        <Link href="#">02080 900 372</Link>
+                                        <a href="tel:02080900372">02080 900 372</a>
                                     </div>
                                 </div>
                                 <div className="footer-contact">
@@ -58,7 +58,7 @@ export default function Footer1() {
                                         <div className="contact-icon">
                                             <img src="/assets/img/icons/contact-email2.svg" alt="" />
                                         </div>
-                                        <Link href="#">admin@sadentalaccountants.com</Link>
+                                        <a href="mailto:Admin@SADentalAccountants.Com">Admin@SADentalAccountants.Com</a>
                                     </div>
                                 </div>
                                 <div className="footer-contact">

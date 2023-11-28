@@ -68,21 +68,21 @@ const TestimonialThumbSlider1 = () => {
                     ref={(slider) => setSlider1(slider)}
                     className="slider-testimonial">
                     <div className="single-testimonial">
-                        <h5>“The financial guidance from ASAccounting has been a game-changer for our dental practice. Their tax strategies significantly reduced our liabilities and improved our bottom line.”</h5>
+                        <h5>“The financial guidance from SA Dental Accountants has been a game-changer for our dental practice. Their tax strategies significantly reduced our liabilities and improved our bottom line.”</h5>
                         <div className="author">
                             <Link href="#">Dr. Emily Nguyen</Link>
                             <p>DDS, BrightSmile Clinics</p>
                         </div>
                     </div>
                     <div className="single-testimonial">
-                        <h5>“Working with ASAccounting, we've not only saved on taxes but also streamlined our accounting processes. Their team understands the dental business inside out.”</h5>
+                        <h5>“Working with SA Dental Accountants, we've not only saved on taxes but also streamlined our accounting processes. Their team understands the dental business inside out.”</h5>
                         <div className="author">
                             <Link href="#">Dr. Jordan Clark</Link>
                             <p>DMD, Clark Dental Group</p>
                         </div>
                     </div>
                     <div className="single-testimonial">
-                        <h5>“ASAccounting provided us with comprehensive financial services that have been crucial in our practice's growth. Their attention to detail and industry knowledge is unmatched.”</h5>
+                        <h5>“SA Dental Accountants provided us with comprehensive financial services that have been crucial in our practice's growth. Their attention to detail and industry knowledge is unmatched.”</h5>
                         <div className="author">
                             <Link href="#">Dr. Sophia Martin</Link>
                             <p>Orthodontist, Martin Orthodontics</p>

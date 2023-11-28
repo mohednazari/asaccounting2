@@ -25,7 +25,7 @@ export default function TaxBusiness() {
                                     Our dedicated team ensures you benefit from every deduction and credit available to you,
                                     optimizing your tax position and guiding you through the ever-changing tax landscape.
                                 </p>
-                                <Link href="#" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
+                                <Link href="/personal-tax" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
                             </div>
                         </div>
                         <div className="col-md-6" data-aos="fade-up" data-aos-duration={600}>
@@ -35,7 +35,7 @@ export default function TaxBusiness() {
                                 </div>
                                     <h3>Corporation Tax</h3>
                                     <p>Effectively minimize your corporate tax liabilities with our strategic planning and rigorous compliance. Our experts are continually updated on the latest regulations to provide solutions for your company's financial success.</p>
-                                <Link href="#" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
+                                <Link href="/corporation-tax" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
                             </div>
                         </div>
                         <div className="col-md-6" data-aos="fade-up" data-aos-duration={1000}>
@@ -45,7 +45,7 @@ export default function TaxBusiness() {
                                 </div>
                                 <h3>Financial Accounting</h3>
                                 <p>Experience clarity and precision in your financial reporting. Our financial accounting services provide accurate insights into your financial health, enabling informed decision-making for your dental practice.</p>
-                                <Link href="#" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
+                                <Link href="/financial-accounting" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
                             </div>
                         </div>
                         <div className="col-md-6" data-aos="fade-up" data-aos-duration={1200}>
@@ -55,7 +55,7 @@ export default function TaxBusiness() {
                                 </div>
                                 <h3>Management Accounting</h3>
                                 <p>Empower your dental practice with detailed management reports and performance analysis. We help you understand the story behind the numbers, facilitating effective management and operational efficiency.</p>
-                                <Link href="#" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
+                                <Link href="/management-accounting" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
                             </div>
                         </div>
                         <div className="col-md-6" data-aos="fade-up" data-aos-duration={1400}>
@@ -65,7 +65,7 @@ export default function TaxBusiness() {
                                 </div>
                                 <h3>Payroll</h3>
                                 <p>Simplify your payroll process with our comprehensive payroll services. From processing payments to filing year-end reports, we ensure your staff are paid correctly and on time, every time.</p>
-                                <Link href="#" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
+                                <Link href="/payroll" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
                             </div>
                         </div>
                         <div className="col-md-6" data-aos="fade-up" data-aos-duration={1600}>
@@ -75,12 +75,12 @@ export default function TaxBusiness() {
                                 </div>
                                 <h3>Mortgages and Loans</h3>
                                 <p>Secure the best possible terms for your mortgages and loans with our expert advisory. We navigate the financing landscape to find solutions that support the growth and stability of your dental practice.</p>
-                                <Link href="#" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
+                                <Link href="/mortgages-loans" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
                             </div>
                         </div>
                         <div className="space20" />
                         <div className="col-12 text-center" data-aos="fade-up" data-aos-duration={1400}>
-                            <Link className="theme-btn-3" href="#">Explore More Services <span><i className="fa-solid fa-arrow-right" /></span></Link>
+                            {/* <Link className="theme-btn-3" href="#">Explore More Services <span><i className="fa-solid fa-arrow-right" /></span></Link> */}
                         </div>
                     </div>
                 </div>
