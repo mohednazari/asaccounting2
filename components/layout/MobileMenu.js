@@ -42,7 +42,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
                 <div className="mobile-nav">
                     <ul className="mobile-nav-list">
                         <li>
-                            <Link href="#">Home</Link>
+                            <Link href="/">Home</Link>
                         </li>
                         <li><Link href="/about-1">About Us</Link>
                         </li>
