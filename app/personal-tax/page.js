@@ -1,12 +1,13 @@
-
-import Layout from "@/components/layout/Layout"
 import Link from "next/link"
+import { useRouter } from 'next/router'
+
 export default function Page() {
+    const router = useRouter()
+    const { breadcrumbTitle } = router.query
 
     return (
         <>
-
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Service">
+            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle={breadcrumbTitle}>
                 <div>
                     <div className="about-inner inner-1 bg-13 section-padding">
                         <div className="container">

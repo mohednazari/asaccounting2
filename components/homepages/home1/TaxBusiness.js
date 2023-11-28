@@ -25,8 +25,7 @@ export default function TaxBusiness() {
                                     Our dedicated team ensures you benefit from every deduction and credit available to you,
                                     optimizing your tax position and guiding you through the ever-changing tax landscape.
                                 </p>
-                                <Link href="/personal-tax" className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>
-                            </div>
+                                <Link href={{ pathname: '/personal-tax', query: { title: 'Personal Tax' } }} className="theme-btn-7">Learn More <span><i className="fa-solid fa-arrow-right" /></span></Link>                            </div>
                         </div>
                         <div className="col-md-6" data-aos="fade-up" data-aos-duration={600}>
                             <div className="single-business trans-1">

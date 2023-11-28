@@ -1,4 +1,3 @@
-
 export default function Breadcrumb({ breadcrumbTitle }) {
     return (
         <>
@@ -7,14 +6,13 @@ export default function Breadcrumb({ breadcrumbTitle }) {
                     <div className="row">
                         <div className="col-lg-10 m-auto">
                             <div className="inner-title text-center">
-                                <p>{breadcrumbTitle}</p>
-                                <h2>We’re making work meaningful for everyone, everywhere.</h2>
+                                <h2>{breadcrumbTitle}</h2>
+                                <p>We’re making work meaningful for everyone, everywhere.</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
         </>
     )
 }
