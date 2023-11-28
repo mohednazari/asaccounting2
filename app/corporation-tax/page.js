@@ -1,29 +1,27 @@
-
 import Layout from "@/components/layout/Layout"
-import Link from "next/link"
-export default function Page() {
+ import Link from "next/link"
+ export default function Page() {
 
-    return (
-        <>
+     return (
+         <>
 
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Service">
-                <div>
-                    <div className="about-inner inner-1 bg-13 section-padding">
-                        <div className="container">
+             <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Corporation Tax">
+                 <div>
+                     <div className=" bg-13 ">
+                            <div className="col-lg-6 m-auto inner-title text-center section-padding3">
+                              <h2>Optimizing Your Business's Tax Strategy with Expert Care</h2>
+                          </div>
+                         <div className="container">
                             <div className="row align-items-center">
-                                <div className="col-lg-6">
+                                <div className="col-lg-6 section-padding">
                                     <div className="mr50">
                                         <div className="heading2 no-margin-heading">
-                                            <small className="heading-top inner-heading-top"><img src="/assets/img/icons/hands.svg" alt="" />Marketing
-                                                Advertising</small>
+                                            <small className="heading-top inner-heading-top">Corporate Tax Mastery 🏢💼</small>
                                             <h2>
-                                                our experts business strategists create a feasible route for
-                                                your startup
+                                                Navigating Corporate Tax with Precision and Expertise
                                             </h2>
                                             <p>
-                                                Attend is more than a platform. It's a movement to lift the
-                                                stigma surrounding money and relieve the financial stress that
-                                                can lead to burnout. Interested in joining our team?
+                                             In the intricate world of corporate finance, managing corporation tax is a crucial aspect that demands attention and expertise. For every UK-based limited company, and even non-UK based companies managing affairs within the UK, corporation tax on profits is an inevitable facet of doing business. The complexity deepens when considering the global nature of modern companies, where management and operations may span multiple countries.
                                             </p>
                                             <div className="space30" />
                                             <Link className="theme-btn-11" href="#">Book Now
@@ -33,7 +31,7 @@ export default function Page() {
                                 </div>
                                 <div className="col-lg-6 mobile-hidden">
                                     <div className="about-bg-main-img position-relative ml50">
-                                        <img className="border-radius" src="/assets/img/service/service-inner.png" alt="" />
+                                        <img className="border-radius" src="/assets/img/service/corporate-tax.jpg" alt="" />
                                         <div className="corner-right-bottom-shape2 position-absolute">
                                             <img src="/assets/img/shapes/shape-right-bottom2.png" alt="" />
                                         </div>
@@ -47,187 +45,71 @@ export default function Page() {
                     <div className="single-service-area padding-top inner-font-1 inner-blog-1" id="home">
                         <div className="container">
                             <div className="row">
-                                <div className="col-lg-8">
+                                <div className="col-lg-12">
                                     <div className="single-service-contents">
-                                        <h3>Marketing  Advertising</h3>
+                                        <h3>Understanding Your Corporate Tax Obligations</h3>
                                         <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
+                                            Our role is to demystify this complexity. We guide limited companies through the process of accurately calculating profit attributable to each accounting period and determining the corresponding corporation tax. This involves meticulous preparation and submission of a corporation tax return to HMRC, coupled with supporting accounts and tax computations. It's a task that bears no room for error, as missed deadlines or inaccuracies can lead to strict penalties and interest charges on late payments.
                                         </p>
                                         <div className="space30" />
-                                        <div className="single-blog-img">
-                                            <img src="/assets/img/blog/single1.png" alt="" />
-                                        </div>
+
+                                        <h3>Tailored Tax Strategies for Your Business</h3>
+                                        <p>
+                                            Our services extend beyond mere compliance. We conduct comprehensive tax reviews of your business, identifying the most efficient tax structures and strategies. Our objective is to optimize your tax position, ensuring you benefit from every allowable expense and relief, ultimately reducing your tax liability.
+                                        </p>
+                                        <div className="space30" />
                                         <div className="space40" />
-                                        <h4>Conditions of use the Saudi Quality Mark</h4>
+                                        <h4>Proactive and Compliant Tax Management</h4>
+                                        <p>
+                                            With SA Dental Accountants, you can expect a proactive approach in managing your corporation tax affairs. We ensure that all compliance requirements are met with precision. This includes:
+                                        </p>
                                         <div className="service-list">
                                             <ul>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> The
-                                                    Mark should be printed on the product to be identical to the
-                                                    official Mark form.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Preparing and timely submitting corporation tax returns.
                                                 </li>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> It
-                                                    shouldn’t be labeled on the correspondence of the facility.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Handling all communications with HMRC on your behalf..
                                                 </li>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> The
-                                                    facility can get back to the granting authority for official
-                                                    approval on the documents intended to label the mark.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Ensuring abbreviated accounts are submitted to Companies House in accordance with legislation.
+
                                                 </li>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> In
-                                                    case there is no space for the Quality Mark or it can’t be
-                                                    labeled on the product, the facility should get back to the
-                                                    granting authority to get approval on the labeling place.
-                                                </li>
-                                                <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> In
-                                                    case there is no space for the Quality Mark or it can’t be
-                                                    labeled on the product, the facility should get back to the
-                                                    granting authority to get approval on the labeling place.
-                                                </li>
-                                                <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> The
-                                                    merchant has the right to label the Quality Mark on the
-                                                    products within the scope of the license.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Offering innovative advice on permissible expenses and additional strategies to minimize your tax burden.
                                                 </li>
                                             </ul>
                                         </div>
-                                        <div className="space30" />
+                                        <div className="space40" />
                                         <div className="single-blog-img">
-                                            <img src="/assets/img/blog/single1.png" alt="" />
+                                            <img src="/assets/img/service/corporate-tax-2.jpg" alt="" />
                                         </div>
-                                        <div className="space30" />
-                                        <h4>Conditions of use the Saudi Quality Mark</h4>
+                                        <div className="space40" />
+                                        <h4>Your Partner in Corporate Tax Efficiency</h4>
                                         <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
+                                            Our team of experienced tax professionals is dedicated to offering the smart thinking and strategic planning your business requires. With our guidance, you'll navigate the complexities of corporation tax efficiently, allowing you to focus on growing and managing your business with confidence and peace of mind.
                                         </p>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
+                                        <div className="col-lg-12 m-auto inner-title text-center section-padding3">
+                                        <h2>
+                                            Let SA Dental Accountants be your ally in achieving a more favorable and efficient corporate tax outcome.
+                                        </h2>
+                                    </div>
                                         <div className="space30" />
                                         <div className="row">
-                                            <div className="col-lg-6">
+                                            <div className="col-lg-12">
                                                 <div className="single-service-advise">
-                                                    <h4>Why do I need it?</h4>
+                                                    <h4>Why Do I Need Corporate Tax Services?</h4>
+                                                    {/* <h4>Streamlining Complexity for Business Growth 📈</h4> */}
                                                     <p>
-                                                        An experienced PM is essential to ensure a well-executed
-                                                        and successful project. Assigning non-PMs to handle PM
-                                                        work internally is challenging due to competing
-                                                        priorities, workload, and lack of PM training. A
-                                                        consultant PM is an experienced outside expert dedicated
-                                                        to your project team and their success.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                            <div className="col-lg-6">
-                                                <div className="single-service-advise">
-                                                    <h4>Why Consultia?</h4>
-                                                    <p>
-                                                        An experienced PM is essential to ensure a well-executed
-                                                        and successful project. Assigning non-PMs to handle PM
-                                                        work internally is challenging due to competing
-                                                        priorities, workload, and lack of PM training. A
-                                                        consultant PM is an experienced outside expert dedicated
-                                                        to your project team and their success.
+                                                    Navigating the intricacies of corporate tax is critical for any business. Expert tax services ensure full compliance with ever-changing tax laws, avoiding penalties. They play a key role in identifying strategies to minimize tax liabilities within legal frameworks, thus maximizing your financial efficiency. This not only saves valuable time and resources but also provides strategic insights for future growth. With professional guidance, you can focus on your core business activities, confident in the knowledge that your tax affairs are managed effectively and efficiently.
+
                                                     </p>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div className="space30" />
-                                        <h4>Conditions of use the Saudi Quality Mark</h4>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
-                                        <div className="inner-quote">
-                                            <p>
-                                                “ Success is not final; failure is not fatal: it is the
-                                                courage to continue that counts.”
-                                            </p>
-                                            <Link href="#">Winston Churchill.</Link>
-                                        </div>
                                     </div>
                                 </div>
-                                <div className="col-lg-4">
-                                    <div className="widgets">
-                                        <div className="single-widget categories">
-                                            <h3>Categories</h3>
-                                            <ul className="category-list">
-                                                <li>
-                                                    <Link className="active" href="#">Lifestyle
-                                                        <span><i className="fa-solid fa-angle-right" /></span></Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="#">Stories
-                                                        <span><i className="fa-solid fa-angle-right" /></span></Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="#">Updates
-                                                        <span><i className="fa-solid fa-angle-right" /></span></Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="#">Development
-                                                        <span><i className="fa-solid fa-angle-right" /></span></Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="#">Marketing
-                                                        <span><i className="fa-solid fa-angle-right" /></span></Link>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div className="single-widget tags-widget">
-                                            <h3>Tags</h3>
-                                            <ul className="tags-list">
-                                                <li><Link href="#">Healthcare</Link></li>
-                                                <li><Link href="#">Consult</Link></li>
-                                                <li><Link href="#">Cahless</Link></li>
-                                                <li><Link href="#">Cyberattacks</Link></li>
-                                                <li><Link href="#">Meeting</Link></li>
-                                                <li><Link href="#">Leadership</Link></li>
-                                                <li><Link href="#">Health Insurace</Link></li>
-                                            </ul>
-                                        </div>
-                                        <div className="widget-download-card single-widget bg-24">
-                                            <h4>Cick here to Download our Company Profile</h4>
-                                            <Link className="theme-btn-11 full-btn" href="#"><img className="mr-2" src="/assets/img/icons/download.svg" alt="" />
-                                                Download PDF</Link>
-                                            <div className="download-card-img text-center">
-                                                <img src="/assets/img/service/service-6.svg" alt="" />
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -316,7 +198,7 @@ export default function Page() {
                                                 <input type="email" placeholder="Email Address" />
                                                 <button type="submit" name="button">
                                                     Subscribe Now
-                                                    <img src="/assets/img/icons/arrow-up-right.svg" alt="" />
+                                                    <img src="/assets/img/icons/arrow-up-right-black.svg" alt="" />
                                                 </button>
                                             </form>
                                         </div>

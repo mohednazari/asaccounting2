@@ -5,24 +5,26 @@ import Layout from "@/components/layout/Layout"
      return (
          <>
 
-             <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Service">
+             <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Personal Tax">
                  <div>
-                     <div className="about-inner inner-1 bg-13 section-padding">
+                     <div className=" bg-13 ">
+                            <div className="col-lg-6 m-auto inner-title text-center section-padding3">
+                              <h2>Expert Guidance for Individual Tax Efficiency and Wealth Preservation</h2>
+                          </div>
                          <div className="container">
                             <div className="row align-items-center">
-                                <div className="col-lg-6">
+                                <div className="col-lg-6 section-padding">
                                     <div className="mr50">
                                         <div className="heading2 no-margin-heading">
-                                            <small className="heading-top inner-heading-top"><img src="/assets/img/icons/hands.svg" alt="" />Marketing
-                                                Advertising</small>
+                                            <small className="heading-top inner-heading-top">Streamlined Payroll Solutions 📊👷</small>
                                             <h2>
-                                                our experts business strategists create a feasible route for
-                                                your startup
+                                                Navigating Your Financial Journey with Expertise and Foresight
                                             </h2>
                                             <p>
-                                                Attend is more than a platform. It's a movement to lift the
-                                                stigma surrounding money and relieve the financial stress that
-                                                can lead to burnout. Interested in joining our team?
+                                            In the realm of personal finance, the path to wealth protection and optimization can be as unique as you are. Whether you're a business owner, company director, entrepreneur, partner in a professional practice, or a property mogul, your financial canvas is intricate, layered with the nuances of your hard work and vision.
+                                            </p>
+                                            <p>
+                                            At SA Dental Accountants, we understand that tax efficiency isn't just about saving money—it's about crafting a strategy that resonates with your individual goals and adapts to the contours of your financial landscape. Our approach is holistic, proactive, and, most importantly, personalized. We take the time to understand your needs, your aspirations, and your challenges, and then we build a plan that helps you achieve your goals and preserve your wealth.
                                             </p>
                                             <div className="space30" />
                                             <Link className="theme-btn-11" href="#">Book Now
@@ -32,7 +34,7 @@ import Layout from "@/components/layout/Layout"
                                 </div>
                                 <div className="col-lg-6 mobile-hidden">
                                     <div className="about-bg-main-img position-relative ml50">
-                                        <img className="border-radius" src="/assets/img/service/service-inner.png" alt="" />
+                                        <img className="border-radius" src="/assets/img/service/payroll-service.jpg" alt="" />
                                         <div className="corner-right-bottom-shape2 position-absolute">
                                             <img src="/assets/img/shapes/shape-right-bottom2.png" alt="" />
                                         </div>
@@ -48,13 +50,9 @@ import Layout from "@/components/layout/Layout"
                             <div className="row">
                                 <div className="col-lg-12">
                                     <div className="single-service-contents">
-                                        <h3>Marketing  Advertising</h3>
+                                        <h3>Customized Tax Strategies for Diverse Clientele</h3>
                                         <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
+                                            We delve deep into the fabric of your financial life to safeguard your wealth against the vagaries of economic shifts. Our team is dedicated to the art and science of tax planning, leveraging every relief and exemption the law allows to secure your assets. We don't just prepare for the present; we anticipate future challenges and opportunities, ensuring your financial strategy is both resilient and dynamic.
                                         </p>
                                         <p>
                                             By engaging with employees virtually, companies can stay
@@ -65,117 +63,48 @@ import Layout from "@/components/layout/Layout"
                                         </p>
                                         <div className="space30" />
                                         <div className="single-blog-img">
-                                            <img src="/assets/img/blog/single1.png" alt="" />
+                                            <img src="/assets/img/service/payroll-service-meeting.jpg" alt="" />
                                         </div>
                                         <div className="space40" />
-                                        <h4>Conditions of use the Saudi Quality Mark</h4>
+                                        <h4>Our Personal Tax Services Include:</h4>
                                         <div className="service-list">
                                             <ul>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> The
-                                                    Mark should be printed on the product to be identical to the
-                                                    official Mark form.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Personal Tax Return Preparation
                                                 </li>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> It
-                                                    shouldn’t be labeled on the correspondence of the facility.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Submission to HMRC
                                                 </li>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> The
-                                                    facility can get back to the granting authority for official
-                                                    approval on the documents intended to label the mark.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Tailored Tax Planning
                                                 </li>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> In
-                                                    case there is no space for the Quality Mark or it can’t be
-                                                    labeled on the product, the facility should get back to the
-                                                    granting authority to get approval on the labeling place.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> Investment Advice.
                                                 </li>
                                                 <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> In
-                                                    case there is no space for the Quality Mark or it can’t be
-                                                    labeled on the product, the facility should get back to the
-                                                    granting authority to get approval on the labeling place.
-                                                </li>
-                                                <li>
-                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> The
-                                                    merchant has the right to label the Quality Mark on the
-                                                    products within the scope of the license.
+                                                    <img src="/assets/img/icons/circle-check.svg" alt="" /> HMRC Tax Investigations
                                                 </li>
                                             </ul>
                                         </div>
-                                        <div className="space30" />
-                                        <div className="single-blog-img">
-                                            <img src="/assets/img/blog/single1.png" alt="" />
-                                        </div>
-                                        <div className="space30" />
-                                        <h4>Conditions of use the Saudi Quality Mark</h4>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
                                         <div className="space30" />
                                         <div className="row">
                                             <div className="col-lg-6">
                                                 <div className="single-service-advise">
                                                     <h4>Why do I need it?</h4>
                                                     <p>
-                                                        An experienced PM is essential to ensure a well-executed
-                                                        and successful project. Assigning non-PMs to handle PM
-                                                        work internally is challenging due to competing
-                                                        priorities, workload, and lack of PM training. A
-                                                        consultant PM is an experienced outside expert dedicated
-                                                        to your project team and their success.
+                                                        Effective personal tax management is not just about fulfilling obligations but ensuring you make smart financial decisions that secure and enhance your wealth. With intricate tax laws and the potential for significant savings, professional tax services are indispensable for compliance, optimizing tax benefits, and achieving peace of mind.
                                                     </p>
                                                 </div>
                                             </div>
                                             <div className="col-lg-6">
                                                 <div className="single-service-advise">
-                                                    <h4>Why Consultia?</h4>
+                                                    <h4>Why SA Dental Accountant</h4>
                                                     <p>
-                                                        An experienced PM is essential to ensure a well-executed
-                                                        and successful project. Assigning non-PMs to handle PM
-                                                        work internally is challenging due to competing
-                                                        priorities, workload, and lack of PM training. A
-                                                        consultant PM is an experienced outside expert dedicated
-                                                        to your project team and their success.
-                                                    </p>
+                                                    At SA Dental Accountant, we pride ourselves on a deep understanding of both accounting and the dental industry. Our dedicated services go beyond standard tax practices, offering a nuanced approach tailored to the unique financial landscape of dental professionals.</p>
                                                 </div>
                                             </div>
                                         </div>
                                         <div className="space30" />
-                                        <h4>Conditions of use the Saudi Quality Mark</h4>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
-                                        <p>
-                                            By engaging with employees virtually, companies can stay
-                                            connected and informed with their people, no matter where they
-                                            are. This can help improve morale and keep employees feeling
-                                            like they're part of the team, even if they're not in the same
-                                            room.
-                                        </p>
-                                        <div className="inner-quote">
-                                            <p>
-                                                “ Success is not final; failure is not fatal: it is the
-                                                courage to continue that counts.”
-                                            </p>
-                                            <Link href="#">Winston Churchill.</Link>
-                                        </div>
                                     </div>
                                 </div>
 
@@ -186,15 +115,6 @@ import Layout from "@/components/layout/Layout"
                     {/*=====Service Start=======*/}
                     <div className="section-padding2">
                         <div className="container">
-                            <div className="row">
-                                <div className="col-lg-6 m-auto text-center">
-                                    <div className="heading2">
-                                        <small className="heading-top inner-heading-top"><img src="/assets/img/icons/hands.svg" alt="" />Our Success in
-                                            Numbers</small>
-                                        <h2>Check out more services</h2>
-                                    </div>
-                                </div>
-                            </div>
                             <div className="row">
                                 <div className="col-lg-4 col-md-6">
                                     <div className="single-inner-service trans-1">

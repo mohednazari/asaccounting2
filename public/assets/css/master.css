@@ -162,6 +162,15 @@ img {
   }
 }
 
+.section-padding3 {
+  padding: 20px 0 100px;
+}
+@media (max-width: 991px) {
+  .section-padding3 {
+    padding: 60px 0;
+  }
+}
+
 .section-padding2 {
   padding: 120px 0 90px;
 }
@@ -5214,6 +5223,9 @@ img.service-shape1 {
   background: #e0e0e0;
   border-radius: 8px;
   padding: 30px;
+  height: auto; /* adjust this value as needed */
+  min-height: 300px; /* adjust this value as needed */
+  
 }
 @media (max-width: 767px) {
   .single-service-advise {
@@ -5602,15 +5614,15 @@ img.circle-text {
 
 .inner-title p {
   font-family: "satoshi";
-  font-weight: 500;
-  font-size: 24px;
+  font-weight: 800;
+  font-size: 40px;
   line-height: 24px;
   text-transform: uppercase;
   color: #222b7e;
 }
 @media (max-width: 767px) {
   .inner-title p {
-    font-size: 18px;
+    font-size: 30px;
   }
 }
 .inner-title h2 {
