@@ -1,16 +1,14 @@
-import Link from "next/link"
-import { useRouter } from 'next/router'
+import Layout from "@/components/layout/Layout"
+ import Link from "next/link"
+ export default function Page() {
 
-export default function Page() {
-    const router = useRouter()
-    const { breadcrumbTitle } = router.query
+     return (
+         <>
 
-    return (
-        <>
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle={breadcrumbTitle}>
-                <div>
-                    <div className="about-inner inner-1 bg-13 section-padding">
-                        <div className="container">
+             <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Service">
+                 <div>
+                     <div className="about-inner inner-1 bg-13 section-padding">
+                         <div className="container">
                             <div className="row align-items-center">
                                 <div className="col-lg-6">
                                     <div className="mr50">
