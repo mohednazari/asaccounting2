@@ -3436,12 +3436,12 @@ a.footer-logo {
   background: #fff;
 }
 .social.social5 ul li a:hover {
-  background: #1456DA;
+  background: #2E3E90;
   color: #ffffff;
 }
 
 .footer-2 .contact-icon {
-  background: #1456DA;
+  background: #2E3E90;
 }
 .footer-2 .single-footer h3 {
   font-weight: 500;
@@ -7982,7 +7982,7 @@ li.multi-dropdown-parrent:hover > ul.multi-dropdown.theme-dropdown {
   position: fixed;
   height: 100%;
   width: 100%;
-  background: #5C5B79;
+  background: #2E3E90;
   z-index: 99;
   padding: 40px 30px;
   left: -100%;
