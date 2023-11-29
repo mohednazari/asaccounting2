@@ -18,7 +18,7 @@ export default function Page() {
                                         </div>
                                         <div className="contact-box-content">
                                             <p className="font-f-3">CALL US</p>
-                                            <Link className="font-f-3" href="/tel:+11 1111 11000">+11 1111 11000</Link>
+                                            <a href="tel:02080900372">02080 900 372</a>
                                         </div>
                                     </div>
                                 </div>
@@ -29,18 +29,18 @@ export default function Page() {
                                         </div>
                                         <div className="contact-box-content">
                                             <p className="font-f-3">EMAIL US</p>
-                                            <Link className="font-f-3" href="/mailto:hello@consultia.com">hello@consultia.com</Link>
+                                            <Link className="font-f-3" href="/mailto:admin@sadentalaccountants.com">admin@SADentalAccountants.com</Link>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-lg-4">
                                     <div className="single-contact-box">
                                         <div className="contact-box-icon">
-                                            <img src="/assets/img/icons/contact-3.svg" alt="" />
+                                            <img src="/assets/img/icons/contact-31.png" alt="" />
                                         </div>
                                         <div className="contact-box-content">
-                                            <p className="font-f-3">HEADQUARTERS</p>
-                                            <Link className="font-f-3" href="#">New York, NY 94105, United States</Link>
+                                            <p className="font-f-3">Address</p>
+                                            <Link className="font-f-3" href="#">246, Woodhouse Road, North Finchley, London, N12 0RU</Link>
                                         </div>
                                     </div>
                                 </div>
@@ -99,7 +99,7 @@ export default function Page() {
                     </div>
                     {/*=====Contact Form End=======*/}
                     {/*=====Office-area end=======*/}
-                    <div className="office-area section-padding2 bg-13 inner-font-1 _relative">
+                    {/* <div className="office-area section-padding2 bg-13 inner-font-1 _relative">
                         <div className="container">
                             <div className="row">
                                 <div className="col-lg-8 m-auto">
@@ -202,7 +202,7 @@ export default function Page() {
                         <div className="shape-007">
                             <img src="/assets/img/shapes/shape007.svg" alt="" />
                         </div>
-                    </div>
+                    </div> */}
                     {/*=====Office-area end=======*/}
                     {/*=====Faq start=======*/}
                     <div className="faq2 section-padding">
@@ -334,7 +334,7 @@ export default function Page() {
                                                 <input type="email" placeholder="Email Address" />
                                                 <button type="submit" name="button">
                                                     Subscribe Now
-                                                    <img src="/assets/img/icons/arrow-up-right.svg" alt="" />
+                                                    <img src="/assets/img/icons/arrow-up-right-black.svg" alt="" />
                                                 </button>
                                             </form>
                                         </div>
