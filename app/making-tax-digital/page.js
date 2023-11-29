@@ -112,50 +112,54 @@ import Layout from "@/components/layout/Layout"
                     <div className="section-padding2">
                         <div className="container">
                             <div className="row">
+                                <div className="col-lg-6 m-auto text-center">
+                                    <div className="heading2">
+                                        <small className="heading-top inner-heading-top"><img src="/assets/img/icons/hands.svg" alt="" />Our Success in
+                                            Numbers</small>
+                                        <h2>Check out more services</h2>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="row">
                                 <div className="col-lg-4 col-md-6">
                                     <div className="single-inner-service trans-1">
                                         <div className="service-img">
-                                            <img src="/assets/img/service/service-1.svg" alt="" />
+                                            <img src="/assets/img/service/service-personal-tax.svg" alt="" />
                                         </div>
                                         <div className="service-content">
-                                            <h3 className="font-f-3">Business Strategy</h3>
+                                            <h3 className="font-f-3">Personal Tax</h3>
                                             <p className="font-f-3">
-                                                Crafting unique themes, features, and sophisticated
-                                                integrations into a complete experience has been our
-                                                portfolio.
+                                                Expert guidance on personal tax management. Our services ensure your tax affairs are handled efficiently, maximizing savings and ensuring compliance.
                                             </p>
-                                            <Link className="theme-btn-11 full-btn" href="#">Get Basic Monthly</Link>
+                                            <Link className="theme-btn-11 full-btn" href="/personal-tax">Learn More</Link>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-lg-4 col-md-6">
                                     <div className="single-inner-service trans-1">
                                         <div className="service-img">
-                                            <img src="/assets/img/service/service-2.svg" alt="" />
+                                            <img src="/assets/img/service/service-payroll.svg" alt="" />
                                         </div>
                                         <div className="service-content">
-                                            <h3 className="font-f-3">Technology Strategy</h3>
+                                            <h3 className="font-f-3">Payroll</h3>
                                             <p className="font-f-3">
-                                                Crafting unique themes, features, and sophisticated
-                                                integrations into a complete experience has been our
-                                                portfolio.
+                                                Efficient payroll management for hassle-free processing. We handle monthly services, tax submissions, and all employee-related financial documentation with precision.
                                             </p>
-                                            <Link className="theme-btn-11 full-btn" href="#">Get Basic Monthly</Link>
+                                            <Link className="theme-btn-11 full-btn" href="/payroll">Learn More</Link>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-lg-4 col-md-6">
                                     <div className="single-inner-service trans-1">
                                         <div className="service-img">
-                                            <img src="/assets/img/service/service-3.svg" alt="" />
+                                            <img src="/assets/img/service/service-mortages-loans.svg" alt="" />
                                         </div>
                                         <div className="service-content">
-                                            <h3 className="font-f-3">Product Strategy</h3>
+                                            <h3 className="font-f-3">Mortgages and Loans</h3>
                                             <p className="font-f-3">
-                                                Making a mistake on your return can be costly. From missed
-                                                deductions, or worse, the dreaded IRS audit.
+                                                Expert advice on mortgages and loans, tailored for your financial needs. We guide you through the process, ensuring the best terms for your personal or business loans.
                                             </p>
-                                            <Link className="theme-btn-11 full-btn" href="#">Get Basic Monthly</Link>
+                                            <Link className="theme-btn-11 full-btn" href="mortgages-loans">Learn More</Link>
                                         </div>
                                     </div>
                                 </div>
@@ -169,15 +173,14 @@ import Layout from "@/components/layout/Layout"
                             <div className="row align-items-center">
                                 <div className="col-lg-6">
                                     <div className="heading4 white-heading inner-heading no-margin-heading">
-                                        <h2>Want to join our team?</h2>
+                                        <h2>Subscribe to Our Expert Insights</h2>
                                         <p>
-                                            We are always looking for talented people, We here to help you
-                                            to open your bright future.
+                                            Join our exclusive newsletter and get ahead in the financial world of dental and healthcare practices. Our newsletter is more than just an update; it's a rich resource filled with expert insights, latest industry news, practical tips, and exclusive content tailored specifically for professionals like you.
                                         </p>
                                     </div>
                                 </div>
                                 <div className="col-lg-5 col-md-6 offset-lg-1">
-                                    <div className="sunscribe-form">
+                                    <div className="subscribe-form">
                                         <div className="subscribe-from-wrap">
                                             <form action="#">
                                                 <input type="email" placeholder="Email Address" />

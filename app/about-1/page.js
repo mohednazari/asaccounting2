@@ -9,8 +9,9 @@ export default function Page() {
 
     return (
         <>
+        
 
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="ABOUT CONSULTIA">
+            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="ABOUT SA Dental Accountants">
                 <div>
                     <div className="bg-13-haf">
                         <div className="container">
@@ -30,34 +31,26 @@ export default function Page() {
                             <div className="row">
                                 <div className="col-12">
                                     <div className="heading2 no-margin-heading">
-                                        <h2>Our Story</h2>
+                                        <h2>Dedicated Expertise in Your Industry</h2>
                                     </div>
                                 </div>
                                 <div className="col-md-6">
                                     <div className="heading2 no-margin-heading">
                                         <p>
-                                            Imagine building some of the most sophisticated hardware-driven
-                                            technologies in the world – spacecraft, drones or autonomous
-                                            vehicles. Then imagine being unable to easily share your data to
-                                            different teams, having to use clunky user interfaces, and
-                                            relying on a single person manually inputting data in an Excel
-                                            spreadsheet to bottom line your project. To solve this problem,
-                                            Violet Labs is developing a cloud-based platform that can act as
-                                            a single source of truth.
+                                            At SA Dental Accountants, our identity is shaped by our unique specialization as chartered certified accountants dedicated exclusively to the dental and healthcare sectors. Our expertise goes beyond traditional accounting; we delve deep into the intricacies and nuances of your specific professional field. This specialized focus allows us to provide a comprehensive suite of services that includes Financial and Management Accounting, complemented by advanced Taxation advice, all meticulously tailored to meet the distinct needs of dentists and healthcare practitioners.
                                         </p>
                                     </div>
                                 </div>
                                 <div className="col-md-6">
                                     <div className="heading2 no-margin-heading">
                                         <p>
-                                            Imagine building some of the most sophisticated hardware-driven
-                                            technologies in the world – spacecraft, drones or autonomous
-                                            vehicles. Then imagine being unable to easily share your data to
-                                            different teams, having to use clunky user interfaces, and
-                                            relying on a single person manually inputting data in an Excel
-                                            spreadsheet to bottom line your project. To solve this problem,
-                                            Violet Labs is developing a cloud-based platform that can act as
-                                            a single source of truth.
+                                            ● <strong>Deep Sector Knowledge:</strong> Our firm's focus is deeply rooted in the dental and healthcare sectors, where we have cultivated a profound understanding of the unique financial and regulatory landscapes.
+                                        </p>
+                                        <p>
+                                            ● <strong>Bespoke Accounting Solutions:</strong> Tailored specifically for healthcare professionals, our accounting services address the distinct challenges and opportunities in your field.
+                                        </p>
+                                        <p>
+                                            ● <strong>Continuous Learning and Adaptation:</strong> We keep our fingers on the pulse of industry changes, ensuring our advice and services remain relevant and forward-thinking.
                                         </p>
                                     </div>
                                 </div>
@@ -80,27 +73,18 @@ export default function Page() {
                                 <div className="col-lg-6">
                                     <div className="ml50">
                                         <div className="heading2 no-margin-heading">
-                                            <small className="heading-top inner-heading-top"><img src="/assets/img/icons/hands.svg" alt="" />We doing super
-                                                business since 1998.</small>
+                                            <small className="heading-top inner-heading-top">🌟 Expertise Legacy: Specialized Excellence</small>
                                             <h2>
-                                                We Handle The Most Tedious Bookkeeping Tasks of Your Business
-                                                Operations.
+                                                Our Legacy of Expertise
                                             </h2>
                                             <p>
-                                                Imagine building some of the most sophisticated
-                                                hardware-driven technologies in the world – spacecraft, drones
-                                                or autonomous vehicles. Then imagine being unable to easily
-                                                share your data to different teams, having to use clunky user
-                                                interfaces, and relying on a single person manually inputting
-                                                data.
+                                            ● <strong>Invaluable Industry Experience:</strong> Years of focused experience in the dental and healthcare sectors have equipped us with profound knowledge and insights, which we leverage to your advantage.
                                             </p>
                                             <p>
-                                                Excel spreadsheet to bottom line your project. To solve this
-                                                problem, Violet Labs is developing a cloud-based platform that
-                                                can act as a single source of truth, collecting the data from
-                                                all the tools and making them easily accessible across teams.
-                                                Hoag likened the product to Zapier, which uses APIs to talk to
-                                                different tools.
+                                                ● <strong>Focused Financial Services: </strong> From intricate tax planning tailored for your industry to strategic financial management, we provide specialized services that address the unique financial aspects of your practice.
+                                            </p>
+                                            <p>
+                                                ● <strong>Continuous Learning and Adaptation:</strong> We keep our fingers on the pulse of industry changes, ensuring our advice and services remain relevant and forward-thinking.
                                             </p>
                                         </div>
                                     </div>
@@ -115,18 +99,15 @@ export default function Page() {
                             <div className="row align-items-center">
                                 <div className="col-lg-6">
                                     <div className="heading2 no-margin-heading mr50">
-                                        <small className="heading-top inner-heading-top"><img src="/assets/img/icons/hands.svg" alt="" />Our
-                                            Success in
-                                            Numbers</small>
+                                        <small className="heading-top inner-heading-top">🤝 Your Journey, Our Partnership: Growing Together</small>
                                         <h2>
-                                            We Handle The Most Tedious Bookkeeping Tasks of Your Business
-                                            Operations.
+                                            Partners in Your Professional Journey
                                         </h2>
                                         <p>
-                                            Experienced, knowledgeable professionals in Property Tax
-                                            Consulting. Our team of Property Tax Consultants is committed to
-                                            saving you money by obtaining the lowest possible assessed value
-                                            for your commercial or residential properties.
+                                        ● <strong>Beyond Accounting:</strong> We see our role as more than just accountants; we are your partners in a shared journey towards success. Our aim is to empower your practice with the financial knowledge and tools for sustained growth and prosperity.
+                                        </p>
+                                        <p>
+                                            ● <strong>A Relationship Built on Trust: </strong> Our identity as dental specialist accountants is a testament to our commitment. We strive to offer exceptional service, insightful guidance, and a lasting partnership that evolves with your practice.
                                         </p>
                                     </div>
                                 </div>
@@ -138,14 +119,14 @@ export default function Page() {
                                                     <div className="conter-icon">
                                                         <img src="/assets/img/icons/service-9.png" alt="" />
                                                     </div>
-                                                    <h2>$<CounterUp count={256} />B</h2>
-                                                    <p>Quaterly Volume</p>
+                                                    <h2>£<CounterUp count={500} />K</h2>
+                                                    <p>Quarterly Volume</p>
                                                 </div>
                                                 <div className="single-counter">
                                                     <div className="conter-icon">
                                                         <img src="/assets/img/icons/service-16.png" alt="" />
                                                     </div>
-                                                    <h2><CounterUp count={152} />+</h2>
+                                                    <h2><CounterUp count={469} />+</h2>
                                                     <p>Positive Feedback</p>
                                                 </div>
                                             </div>
@@ -154,15 +135,15 @@ export default function Page() {
                                                     <div className="conter-icon">
                                                         <img src="/assets/img/icons/service-12.png" alt="" />
                                                     </div>
-                                                    <h2>$<CounterUp count={122} />B</h2>
-                                                    <p>Assets on Platfrom</p>
+                                                    <h2>£<CounterUp count={100} />M</h2>
+                                                    <p>Managed Finances</p>
                                                 </div>
                                                 <div className="single-counter">
                                                     <div className="conter-icon">
                                                         <img src="/assets/img/icons/service-14.png" alt="" />
                                                     </div>
-                                                    <h2><CounterUp count={256} />+</h2>
-                                                    <p>Employees</p>
+                                                    <h2><CounterUp count={1000} />+</h2>
+                                                    <p>Financial Statements</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -184,9 +165,7 @@ export default function Page() {
                             <div className="row">
                                 <div className="col-lg-10 m-auto">
                                     <div className="heading2 text-center">
-                                        <small className="heading-top inner-heading-top"><img src="/assets/img/icons/hands.svg" alt="" />Our
-                                            Success in
-                                            Numbers</small>
+                                        <small className="heading-top inner-heading-top">Client Testimonials: Real Success Stories 🌟</small>
                                         <h2>We love our clients, and they love us.</h2>
                                     </div>
                                 </div>
@@ -215,43 +194,7 @@ export default function Page() {
                                     </div>
                                 </div>
                             </div>
-                            <div className="row">
-                                <div className="col-lg-3 col-md-6">
-                                    <div className="single-team">
-                                        <div className="team-sides team-font-side">
-                                            <div className="team-img">
-                                                <img src="/assets/img/team/team9.jpg" alt="" />
-                                            </div>
-                                            <div className="team-content bg-18">
-                                                <Link className="weight-700" href="#">Kathryn Murphy</Link>
-                                                <p>Senior Consultant</p>
-                                            </div>
-                                        </div>
-                                        <div className="team-sides team-back-side">
-                                            <div className="team-content bg-18">
-                                                <Link className="weight-700" href="#">Kathryn Murphy</Link>
-                                                <p>Senior Consultant</p>
-                                                <div className="space10" />
-                                                <div className="team-socials">
-                                                    <ul>
-                                                        <li>
-                                                            <Link data-bs-toggle="tooltip" title="Linked in" href="#"><i className="fa-brands fa-linkedin-in" /></Link>
-                                                        </li>
-                                                        <li>
-                                                            <Link data-bs-toggle="tooltip" title="Facebook" href="#"><i className="fa-brands fa-facebook-f" /></Link>
-                                                        </li>
-                                                        <li>
-                                                            <Link data-bs-toggle="tooltip" title="Instagram" href="#"><i className="fa-brands fa-instagram" /></Link>
-                                                        </li>
-                                                        <li>
-                                                            <Link data-bs-toggle="tooltip" title="TikTok" href="#"><i className="fa-brands fa-tiktok" /></Link>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                            <div className="row justify-content-center">
                                 <div className="col-lg-3 col-md-6">
                                     <div className="single-team">
                                         <div className="team-sides team-font-side">
@@ -259,14 +202,14 @@ export default function Page() {
                                                 <img src="/assets/img/team/team10.jpg" alt="" />
                                             </div>
                                             <div className="team-content bg-18">
-                                                <Link className="weight-700" href="#">Aston Turner</Link>
-                                                <p>Group manager</p>
+                                                <Link className="weight-700" href="#">Saeed Soleymani</Link>
+                                                <p>CEO</p>
                                             </div>
                                         </div>
                                         <div className="team-sides team-back-side">
                                             <div className="team-content bg-18">
-                                                <Link className="weight-700" href="#">Alyssa Healy</Link>
-                                                <p>Group manager</p>
+                                                <Link className="weight-700" href="#">Saeed Soleymani</Link>
+                                                <p>CEO</p>
                                                 <div className="space10" />
                                                 <div className="team-socials">
                                                     <ul>
@@ -295,50 +238,14 @@ export default function Page() {
                                                 <img src="/assets/img/team/team11.jpg" alt="" />
                                             </div>
                                             <div className="team-content bg-18">
-                                                <Link className="weight-700" href="#">Jhye Richardson</Link>
-                                                <p>Associate Consultant</p>
+                                                <Link className="weight-700" href="#">Ali</Link>
+                                                <p>CEO</p>
                                             </div>
                                         </div>
                                         <div className="team-sides team-back-side">
                                             <div className="team-content bg-18">
-                                                <Link className="weight-700" href="#">Jhye Richardson</Link>
-                                                <p>Associate Consultant</p>
-                                                <div className="space10" />
-                                                <div className="team-socials">
-                                                    <ul>
-                                                        <li>
-                                                            <Link data-bs-toggle="tooltip" title="Linked in" href="#"><i className="fa-brands fa-linkedin-in" /></Link>
-                                                        </li>
-                                                        <li>
-                                                            <Link data-bs-toggle="tooltip" title="Facebook" href="#"><i className="fa-brands fa-facebook-f" /></Link>
-                                                        </li>
-                                                        <li>
-                                                            <Link data-bs-toggle="tooltip" title="Instagram" href="#"><i className="fa-brands fa-instagram" /></Link>
-                                                        </li>
-                                                        <li>
-                                                            <Link data-bs-toggle="tooltip" title="TikTok" href="#"><i className="fa-brands fa-tiktok" /></Link>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="col-lg-3 col-md-6">
-                                    <div className="single-team">
-                                        <div className="team-sides team-font-side">
-                                            <div className="team-img">
-                                                <img src="/assets/img/team/team12.jpg" alt="" />
-                                            </div>
-                                            <div className="team-content bg-18">
-                                                <Link className="weight-700" href="#">Peter Handscomb</Link>
-                                                <p>Consultant  Analytics</p>
-                                            </div>
-                                        </div>
-                                        <div className="team-sides team-back-side">
-                                            <div className="team-content bg-18">
-                                                <Link className="weight-700" href="#">Peter Handscomb</Link>
-                                                <p>Consultant  Analytics</p>
+                                                <Link className="weight-700" href="#">Ali</Link>
+                                                <p>CEO</p>
                                                 <div className="space10" />
                                                 <div className="team-socials">
                                                     <ul>
@@ -370,18 +277,12 @@ export default function Page() {
                             <div className="row align-items-center">
                                 <div className="col-lg-6">
                                     <div className="heading2 mr50">
-                                        <small className="heading-top inner-heading-top"><img src="/assets/img/icons/hands.svg" alt="" />Our
-                                            Success in
-                                            Numbers</small>
+                                        <small className="heading-top inner-heading-top">🔍 Precision Accounting: Elevating Healthcare Finance</small>
                                         <h2>
-                                            We Handle The Most Tedious Bookkeeping Tasks of Your Business
-                                            Operations.
+                                            Embrace Specialized Accounting with SA Dental Accountants
                                         </h2>
                                         <p>
-                                            Experienced, knowledgeable professionals in Property Tax
-                                            Consulting. Our team of Property Tax Consultants is committed to
-                                            saving you money by obtaining the lowest possible assessed value
-                                            for your commercial or residential properties.
+                                            At SA Dental Accountants, we are not just accountants; we are dedicated champions for the financial wellbeing of dental and healthcare professionals. Experience the impact of specialized accounting on your practice.
                                         </p>
                                     </div>
                                 </div>
@@ -410,13 +311,13 @@ export default function Page() {
                                     </div>
                                 </div>
                                 <div className="col-lg-5 col-md-6 offset-lg-1">
-                                    <div className="sunscribe-form">
+                                    <div className="subscribe-form">
                                         <div className="subscribe-from-wrap">
                                             <form action="#">
                                                 <input type="email" placeholder="Email Address" />
                                                 <button type="submit" name="button">
-                                                    Subscribe Now
-                                                    <img src="/assets/img/icons/arrow-up-right.svg" alt="" />
+                                                    Join us
+                                                    <img src="/assets/img/icons/arrow-up-right-black.svg" alt="" />
                                                 </button>
                                             </form>
                                         </div>
