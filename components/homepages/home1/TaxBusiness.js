@@ -18,7 +18,7 @@ export default function TaxBusiness() {
                         <div className="col-md-6" data-aos="fade-up" data-aos-duration={600}>
                                 <div className="single-business trans-1">
                                     <div className="business-icon">
-                                        <img src="/assets/img/icons/counter-23.png" alt="" />
+                                        <img src="/assets/img/icons/counter23.png" alt="" />
                                     </div>
                                         <h3>Personal Tax</h3>
                                         <p>Navigate the complexities of personal tax with ease. Our dedicated team ensures you benefit from every deduction and credit available to you, optimizing your tax position and guiding you through the ever-changing tax landscape.</p>
@@ -67,7 +67,7 @@ export default function TaxBusiness() {
                         <div className="col-md-6" data-aos="fade-up" data-aos-duration={1600}>
                             <div className="single-business trans-1">
                                 <div className="business-icon">
-                                    <img src="/assets/img/icons/counter-22.png" alt="" />
+                                    <img src="/assets/img/icons/counter22.png" alt="" />
                                 </div>
                                 <h3>Mortgages and Loans</h3>
                                 <p>Secure the best possible terms for your mortgages and loans with our expert advisory. We navigate the financing landscape to find solutions that support the growth and stability of your dental practice.</p>
