@@ -9,7 +9,7 @@ export default function Footer1() {
                             <div className="single-footer mr50">
                                 <Link href="/"><img src="assets/img/logo/logo.png" alt="" style={{width: "50px", height: "auto"}} /></Link>
                                 <div className="space20" />
-                                <p>Your Trusted Partner in Dental Practice Financial Management — Advancing Together Towards Greater Success and Sustainability.</p>
+                                <p>Empowering Dental and Healthcare Practices with Precision Accounting</p>
                                 <Link href="/"><img src="assets/img/logo/acca.png" alt="" style={{width: "50px", height: "auto"}} /></Link>
                             </div>
                         </div>
