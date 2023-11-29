@@ -18,7 +18,7 @@ export default function TaxBusiness() {
                         <div className="col-md-6" data-aos="fade-up" data-aos-duration={600}>
                                 <div className="single-business trans-1">
                                     <div className="business-icon">
-                                        <img src="/assets/img/icons/tax-business2.png" alt="" />
+                                        <img src="/assets/img/icons/counter-23.png" alt="" />
                                     </div>
                                         <h3>Personal Tax</h3>
                                         <p>Navigate the complexities of personal tax with ease. Our dedicated team ensures you benefit from every deduction and credit available to you, optimizing your tax position and guiding you through the ever-changing tax landscape.</p>
@@ -37,7 +37,7 @@ export default function TaxBusiness() {
                         <div className="col-md-6" data-aos="fade-up" data-aos-duration={1000}>
                             <div className="single-business trans-1">
                                 <div className="business-icon">
-                                    <img src="/assets/img/icons/tax-business3.png" alt="" />
+                                    <img src="/assets/img/icons/tax-business4.png" alt="" />
                                 </div>
                                 <h3>Financial Accounting</h3>
                                 <p>Experience clarity and precision in your financial reporting. Our financial accounting services provide accurate insights into your financial health, enabling informed decision-making for your dental practice.</p>
@@ -47,7 +47,7 @@ export default function TaxBusiness() {
                         <div className="col-md-6" data-aos="fade-up" data-aos-duration={1200}>
                             <div className="single-business trans-1">
                                 <div className="business-icon">
-                                    <img src="/assets/img/icons/tax-business4.png" alt="" />
+                                    <img src="/assets/img/icons/tax-business3.png" alt="" />
                                 </div>
                                 <h3>Management Accounting</h3>
                                 <p>Empower your dental practice with detailed management reports and performance analysis. We help you understand the story behind the numbers, facilitating effective management and operational efficiency.</p>
@@ -57,7 +57,7 @@ export default function TaxBusiness() {
                         <div className="col-md-6" data-aos="fade-up" data-aos-duration={1400}>
                             <div className="single-business trans-1">
                                 <div className="business-icon">
-                                    <img src="/assets/img/icons/tax-business4.png" alt="" />
+                                    <img src="/assets/img/icons/service-13.png" alt="" />
                                 </div>
                                 <h3>Payroll</h3>
                                 <p>Simplify your payroll process with our comprehensive payroll services. From processing payments to filing year-end reports, we ensure your staff are paid correctly and on time, every time.</p>
@@ -67,7 +67,7 @@ export default function TaxBusiness() {
                         <div className="col-md-6" data-aos="fade-up" data-aos-duration={1600}>
                             <div className="single-business trans-1">
                                 <div className="business-icon">
-                                    <img src="/assets/img/icons/tax-business4.png" alt="" />
+                                    <img src="/assets/img/icons/counter-22.png" alt="" />
                                 </div>
                                 <h3>Mortgages and Loans</h3>
                                 <p>Secure the best possible terms for your mortgages and loans with our expert advisory. We navigate the financing landscape to find solutions that support the growth and stability of your dental practice.</p>
